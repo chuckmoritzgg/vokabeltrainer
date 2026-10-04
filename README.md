@@ -1,4 +1,4 @@
-# Vokabeltrainer – Green Line 2
+# Vokabeltrainer
 
 GitHub-Pages-fertige PWA.
 
