@@ -1,0 +1,25 @@
+{
+  "name": "Vokabeltrainer – Green Line 2",
+  "short_name": "Vokabeltrainer",
+  "description": "Offline-fähiger Vokabeltrainer für Green Line 2 (6. Klasse)",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#3867d6",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
