@@ -17,7 +17,7 @@
 *{box-sizing:border-box}html{min-height:100%;background:var(--bg)}
 body{margin:0;min-height:100%;background:var(--bg);color:var(--text);font:16px system-ui,-apple-system,Segoe UI,Roboto,sans-serif;-webkit-text-size-adjust:100%;overflow-anchor:none}
 .app{max-width:850px;margin:auto;padding:18px;padding-left:max(18px,env(safe-area-inset-left));padding-right:max(18px,env(safe-area-inset-right));padding-bottom:max(18px,env(safe-area-inset-bottom))}
-.top{display:flex;gap:12px;justify-content:space-between;align-items:flex-start;flex-wrap:wrap}h1{font-size:1.45rem;margin:.2rem 0}.stats{color:var(--muted);font-size:.9rem}
+.top{display:flex;gap:12px;justify-content:space-between;align-items:flex-start;flex-wrap:wrap}h1{font-size:1.45rem;margin:.2rem 0;display:flex;align-items:center;gap:8px;flex-wrap:wrap}.github-link{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border:1px solid var(--border);border-radius:8px;background:white;color:var(--text);text-decoration:none;transition:background .15s ease,border-color .15s ease}.github-link:hover{background:#f0f2f5;border-color:#c8ced6}.github-link svg{width:18px;height:18px;fill:currentColor}.stats{color:var(--muted);font-size:.9rem}
 .menu,.card{background:var(--card);border:1px solid var(--border);border-radius:16px;box-shadow:0 5px 20px #0000000b}.menu{margin:14px 0;overflow:hidden}.menu summary{list-style:none;cursor:pointer;padding:13px 14px;font-weight:700;display:flex;align-items:center;justify-content:space-between;gap:10px;user-select:none}.menu summary::-webkit-details-marker{display:none}.menu summary::after{content:"▾";font-size:.9rem;color:var(--muted);transition:transform .18s ease}.menu[open] summary::after{transform:rotate(180deg)}.menu-content{border-top:1px solid var(--border);padding:14px}.menu-section-title{font-size:.8rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700;margin:2px 0 8px}
 .panel{padding:0;margin:0;display:flex;gap:10px;flex-wrap:wrap;align-items:flex-end}.panel label{display:flex;flex-direction:column;gap:4px;font-size:.88rem;color:var(--muted)}select,button,input{font:inherit}select,button,input[type=number]{border:1px solid var(--border);border-radius:10px;padding:9px 12px;background:white;color:var(--text)}button{cursor:pointer}button.primary{background:var(--accent);color:white;border-color:var(--accent)}button:disabled{opacity:.45;cursor:not-allowed}.page-fields{display:flex;gap:10px;flex-wrap:wrap}.page-fields input{width:100px}
 .card{padding:34px 28px;margin-top:14px;text-align:center;min-height:390px;display:flex;flex-direction:column;justify-content:center;overflow-anchor:none;contain:layout paint}.prompt-label{color:var(--muted);font-size:.9rem}.source-label{color:var(--muted);font-size:.8rem;margin-top:8px}.prompt{font-size:2.15rem;font-weight:700;margin:18px 0 24px;overflow-wrap:anywhere}.answer{width:min(620px,100%);margin:0 auto;padding:14px;border:2px solid var(--border);border-radius:12px;outline:none;text-align:center;font-size:1.25rem;scroll-margin-top:140px}.answer:focus{border-color:var(--accent)}.feedback{margin:18px auto 0;max-width:650px;text-align:left;padding:16px;border-radius:12px}.feedback.ok{background:#eaf8f0;border:1px solid #bfe7ce}.feedback.bad{background:#fff0ee;border:1px solid #f0c0ba}.correct{font-size:1.25rem;font-weight:700;color:var(--ok);word-break:break-word}.wrong{font-size:1.1rem;font-weight:700;color:var(--bad);word-break:break-word}.context{margin-top:10px;color:#4c5661;font-style:italic}.actions{display:flex;justify-content:center;gap:10px;margin-top:20px;flex-wrap:wrap}.progress{height:8px;background:#e7ebef;border-radius:99px;overflow:hidden;margin-top:12px}.bar{height:100%;background:var(--accent);width:0}.hidden{display:none!important}.small{font-size:.85rem;color:var(--muted)}.unit-badge{display:inline-block;margin-left:8px;padding:4px 8px;border-radius:999px;background:#eef2ff;color:#3346a3;font-size:.78rem;font-weight:600;vertical-align:middle}.data-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px;padding-top:14px;border-top:1px solid var(--border)}.file-input{display:none}.hint{margin:4px 0 0;color:var(--muted);font-size:.8rem}.error{padding:14px;border:1px solid #f0c0ba;background:#fff0ee;border-radius:12px;color:#8f2d22}
@@ -27,7 +27,7 @@ body{margin:0;min-height:100%;background:var(--bg);color:var(--text);font:16px s
 </head>
 <body>
 <div class="app">
-  <div class="top"><div><h1>Vokabeltrainer <span class="unit-badge" id="selectionBadge">Lädt …</span></h1><div class="stats" id="stats"></div><div class="hint" id="bookHint"></div></div></div>
+  <div class="top"><div><h1>Vokabeltrainer <a class="github-link" href="https://github.com/chuckmoritzgg/vokabeltrainer/" target="_blank" rel="noopener noreferrer" aria-label="Vokabeltrainer auf GitHub öffnen" title="Auf GitHub öffnen"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8a8 8 0 0 0 5.47 7.59c.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg></a><span class="unit-badge" id="selectionBadge">Lädt …</span></h1><div class="stats" id="stats"></div><div class="hint" id="bookHint"></div></div></div>
 
   <details class="menu" id="adminMenu" open>
     <summary>Training &amp; Verwaltung</summary>
@@ -42,8 +42,8 @@ body{margin:0;min-height:100%;background:var(--bg);color:var(--text);font:16px s
           <label>Bis Seite<input id="pageTo" type="number" inputmode="numeric"></label>
         </div>
         <label>Richtung<select id="direction"><option value="de-en">Deutsch → Englisch</option><option value="en-de">Englisch → Deutsch</option></select></label>
-        <label>Auswahl<select id="scope"><option value="due">Wiederholung fällig</option><option value="all">Alle Vokabeln</option><option value="weak">Schwierige Vokabeln</option><option value="new">Noch nicht gelernt</option></select></label>
-        <label>Neue Karten<select id="newLimit"><option>10</option><option>20</option><option>30</option><option>50</option><option value="9999">Alle</option></select></label>
+        <label>Auswahl<select id="scope"><option value="all">Alle Vokabeln</option><option value="due">Wiederholung fällig</option><option value="weak">Schwierige Vokabeln</option><option value="new">Noch nicht gelernt</option></select></label>
+        <label>Karten pro Training<select id="cardLimit"><option value="all">Alle</option><option value="20">20</option><option value="30">30</option><option value="50">50</option><option value="75">75</option><option value="100">100</option></select></label>
         <button class="primary" id="startBtn">Training starten</button>
       </div>
       <div class="data-actions">
@@ -52,7 +52,7 @@ body{margin:0;min-height:100%;background:var(--bg);color:var(--text);font:16px s
         <input id="importFile" class="file-input" type="file" accept="application/json,.json">
         <button id="resetBtn">Fortschritt zurücksetzen</button>
       </div>
-      <p class="hint">Die Vokabeldaten werden getrennt aus JSON-Dateien geladen. Dadurch können später weitere Units und Bücher ergänzt werden, ohne sie in den HTML-Code einzubauen.</p>
+      
     </div>
   </details>
 
@@ -69,28 +69,35 @@ body{margin:0;min-height:100%;background:var(--bg);color:var(--text);font:16px s
   </div>
 </div>
 <script>
-const STORAGE_KEY="vokabeltrainer_progress_v4";
-const SCHEMA_VERSION=4;
+const STORAGE_KEY="vokabeltrainer_progress_v5";
+const SETTINGS_COOKIE="vokabeltrainer_settings_v1";
+const SCHEMA_VERSION=5;
 let manifest=[], bookCache=new Map(), currentBook=null, queue=[], pos=0, current=null, answered=false;
 let store=loadStore();
 const $=id=>document.getElementById(id);
 
 function safeParse(s){try{return JSON.parse(s)}catch{return null}}
-function emptyStore(){return {schemaVersion:SCHEMA_VERSION,active:{book:null,mode:"unit",unit:null,pageFrom:null,pageTo:null,direction:"de-en",scope:"due",newLimit:20},progress:{}}}
+function readSettingsCookie(){const row=document.cookie.split("; ").find(x=>x.startsWith(SETTINGS_COOKIE+"="));if(!row)return null;try{return JSON.parse(decodeURIComponent(row.slice(SETTINGS_COOKIE.length+1)))}catch{return null}}
+function writeSettingsCookie(active){const secure=location.protocol==="https:"?"; Secure":"";document.cookie=`${SETTINGS_COOKIE}=${encodeURIComponent(JSON.stringify(active))}; Max-Age=31536000; Path=/; SameSite=Lax${secure}`;}
+function emptyStore(){return {schemaVersion:SCHEMA_VERSION,active:{book:null,mode:"unit",unit:null,pageFrom:null,pageTo:null,direction:"de-en",scope:"all",cardLimit:"all"},progress:{}}}
+function migrateActive(a={}){return {...emptyStore().active,...a,scope:a.scope||"all",cardLimit:a.cardLimit??(a.newLimit&&a.newLimit>=20?String(a.newLimit):"all")};}
 function loadStore(){
-  const now=safeParse(localStorage.getItem(STORAGE_KEY)); if(now?.schemaVersion===SCHEMA_VERSION)return now;
+  const now=safeParse(localStorage.getItem(STORAGE_KEY)); if(now?.schemaVersion===SCHEMA_VERSION){now.active={...migrateActive(now.active),...(readSettingsCookie()||{})};return now;}
   const out=emptyStore();
+  const v4=safeParse(localStorage.getItem("vokabeltrainer_progress_v4"));
   const v3=safeParse(localStorage.getItem("vokabeltrainer_progress_v3"));
-  if(v3?.progress){out.progress=v3.progress;out.active={...out.active,...v3.active};}
+  const legacy=v4?.progress?v4:v3?.progress?v3:null;
+  if(legacy){out.progress=legacy.progress;out.active=migrateActive(legacy.active);}
   else {
     const v2=safeParse(localStorage.getItem("vokabeltrainer_units_v2"));
     if(v2?.progress){out.progress["green-line-2-kl6"]={};for(const u of ["unit1","unit2"])if(v2.progress[u])out.progress["green-line-2-kl6"][u]=v2.progress[u];}
     const v1=safeParse(localStorage.getItem("vokabeltrainer_unit1_v1"));
     if(v1 && !out.progress?.["green-line-2-kl6"]?.unit1){out.progress["green-line-2-kl6"]??={};out.progress["green-line-2-kl6"].unit1=v1.progress||v1;}
   }
+  out.active={...out.active,...(readSettingsCookie()||{})};
   localStorage.setItem(STORAGE_KEY,JSON.stringify(out)); return out;
 }
-function saveStore(){localStorage.setItem(STORAGE_KEY,JSON.stringify(store));updateStats();}
+function saveStore(){localStorage.setItem(STORAGE_KEY,JSON.stringify(store));writeSettingsCookie(store.active);updateStats();}
 function unitMeta(id){return currentBook.units.find(u=>u.id===id)}
 function cardState(card,create=true){store.progress[currentBook.id]??={};store.progress[currentBook.id][card.unit]??={};let s=store.progress[currentBook.id][card.unit][card.id];if(!s&&create){s={correct:0,wrong:0,seen:0,due:0,streak:0,last:0};store.progress[currentBook.id][card.unit][card.id]=s;}return s||{correct:0,wrong:0,seen:0,due:0,streak:0,last:0};}
 function norm(s){return String(s??"").trim().toLocaleLowerCase("en-GB").replace(/[’‘`´]/g,"'").replace(/[“”]/g,'"').replace(/\s+/g," ");}
@@ -111,7 +118,7 @@ function populateBookUI(){
  $("unit").innerHTML="";currentBook.units.forEach(u=>{const o=document.createElement("option");o.value=u.id;o.textContent=`${u.title} (S. ${u.pages[0]}–${u.pages[1]})`;$("unit").append(o)});
  const pr=currentBook.pageRange;$("pageFrom").min=pr.min;$("pageFrom").max=pr.max;$("pageTo").min=pr.min;$("pageTo").max=pr.max;
 }
-function restoreActiveControls(){const a=store.active||{};const unit=currentBook.units.some(u=>u.id===a.unit)?a.unit:currentBook.units[0].id;$("unit").value=unit;$("selectionMode").value=a.mode||"unit";const p=unitMeta(unit).pages;$("pageFrom").value=a.pageFrom??p[0];$("pageTo").value=a.pageTo??p[1];$("direction").value=a.direction||"de-en";$("scope").value=a.scope||"due";$("newLimit").value=String(a.newLimit||20);}
+function restoreActiveControls(){const a=store.active||{};const unit=currentBook.units.some(u=>u.id===a.unit)?a.unit:currentBook.units[0].id;$("unit").value=unit;$("selectionMode").value=a.mode||"unit";const p=unitMeta(unit).pages;const min=currentBook.pageRange.min,max=currentBook.pageRange.max;const from=Number.isFinite(+a.pageFrom)?Math.min(max,Math.max(min,+a.pageFrom)):p[0];const to=Number.isFinite(+a.pageTo)?Math.min(max,Math.max(min,+a.pageTo)):p[1];$("pageFrom").value=from;$("pageTo").value=to;$("direction").value=a.direction||"de-en";$("scope").value=["all","due","weak","new"].includes(a.scope)?a.scope:"all";$("cardLimit").value=["all","20","30","50","75","100"].includes(String(a.cardLimit))?String(a.cardLimit):"all";}
 function updateSelectionUI(){const pages=$("selectionMode").value==="pages";$("unitWrap").classList.toggle("hidden",pages);$("pageFields").classList.toggle("hidden",!pages);updateStats();}
 function selectedCards(){
  if(!currentBook)return[];
@@ -119,12 +126,12 @@ function selectedCards(){
  let a=+$("pageFrom").value,b=+$("pageTo").value;if(a>b)[a,b]=[b,a];return currentBook.cards.filter(c=>c.page>=a&&c.page<=b);
 }
 function selectionLabel(){if(!currentBook)return"";if($("selectionMode").value==="unit")return unitMeta($("unit").value)?.title||"Unit";let a=+$("pageFrom").value,b=+$("pageTo").value;if(a>b)[a,b]=[b,a];return `S. ${a}–${b}`;}
-function persistControls(){store.active={book:currentBook.id,mode:$("selectionMode").value,unit:$("unit").value,pageFrom:+$("pageFrom").value,pageTo:+$("pageTo").value,direction:$("direction").value,scope:$("scope").value,newLimit:+$("newLimit").value};saveStore();}
+function persistControls(){store.active={book:currentBook.id,mode:$("selectionMode").value,unit:$("unit").value,pageFrom:+$("pageFrom").value,pageTo:+$("pageTo").value,direction:$("direction").value,scope:$("scope").value,cardLimit:$("cardLimit").value};saveStore();}
 function updateStats(){
  if(!currentBook)return;const cards=selectedCards();let seen=0,due=0,weak=0;for(const c of cards){const s=cardState(c,false);if(s.seen)seen++;if((s.due||0)<=Date.now())due++;if(s.seen&&s.wrong>s.correct)weak++;}
  $("stats").textContent=`${cards.length} Vokabeln · ${seen} gelernt · ${due} fällig · ${weak} schwierig`;$("selectionBadge").textContent=selectionLabel();$("bookHint").textContent=currentBook.title+(currentBook.subtitle?" · "+currentBook.subtitle:"");$("resetBtn").textContent="Fortschritt für Auswahl zurücksetzen";
 }
-function chooseQueue(){const scope=$("scope").value,limit=+$("newLimit").value;let arr=selectedCards().filter(c=>{const s=cardState(c);if(scope==="all")return true;if(scope==="new")return !s.seen;if(scope==="weak")return s.seen&&s.wrong>s.correct;return (s.due||0)<=Date.now();});if(scope==="due"){const fresh=arr.filter(c=>!cardState(c).seen).slice(0,limit),old=arr.filter(c=>cardState(c).seen);arr=[...fresh,...old]}for(let i=arr.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[arr[i],arr[j]]=[arr[j],arr[i]]}return arr;}
+function chooseQueue(){const scope=$("scope").value,limitValue=$("cardLimit").value;let arr=selectedCards().filter(c=>{const s=cardState(c);if(scope==="all")return true;if(scope==="new")return !s.seen;if(scope==="weak")return s.seen&&s.wrong>s.correct;return (s.due||0)<=Date.now();});for(let i=arr.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[arr[i],arr[j]]=[arr[j],arr[i]]}if(limitValue!=="all"){const limit=Math.max(20,+limitValue||20);arr=arr.slice(0,limit);}return arr;}
 function startTraining(){persistControls();queue=chooseQueue();pos=0;answered=false;if(!queue.length){$("promptLabel").textContent="Keine passenden Vokabeln in dieser Auswahl.";$("sourceLabel").textContent="";$("prompt").textContent="✓";$("answer").disabled=true;$("checkBtn").disabled=true;$("showBtn").disabled=true;$("adminMenu").open=true;return}$("adminMenu").open=false;showCard();}
 function showCard(){current=queue[pos];answered=false;const dir=$("direction").value;$("promptLabel").textContent=dir==="de-en"?"Deutsch → Englisch":"Englisch → Deutsch";const u=unitMeta(current.unit);$("sourceLabel").textContent=`${u?.title||current.unit} · Seite ${current.page}`;$("prompt").textContent=dir==="de-en"?current.de:current.en;$("answer").value="";$("answer").disabled=false;$("feedback").className="feedback hidden";$("feedback").innerHTML="";$("checkBtn").disabled=false;$("showBtn").disabled=false;$("nextBtn").classList.add("hidden");updateProgress();setTimeout(()=>focusStable(),60);}
 function focusStable(){const y=window.scrollY;$("answer").focus({preventScroll:true});requestAnimationFrame(()=>window.scrollTo({top:y,left:0,behavior:"instant"}));}
@@ -136,12 +143,12 @@ function updateProgress(){$("bar").style.width=((pos/queue.length)*100)+"%";$("c
 function resetStudyView(){$("promptLabel").textContent="Training auswählen und starten.";$("sourceLabel").textContent="";$("prompt").textContent="Bereit?";$("answer").value="";$("answer").disabled=true;$("feedback").className="feedback hidden";$("checkBtn").disabled=true;$("showBtn").disabled=true;$("nextBtn").classList.add("hidden");$("bar").style.width="0";$("counter").textContent="";}
 function escapeHtml(s){return String(s).replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch]))}
 function exportProgress(){persistControls();const blob=new Blob([JSON.stringify({app:"Vokabeltrainer",schemaVersion:SCHEMA_VERSION,exportedAt:new Date().toISOString(),store},null,2)],{type:"application/json"});const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=`vokabeltrainer-fortschritt-${new Date().toISOString().slice(0,10)}.json`;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
-async function importProgress(file){try{const data=JSON.parse(await file.text());let incoming=data.store||data;if(incoming.schemaVersion===3){incoming={...emptyStore(),...incoming,schemaVersion:SCHEMA_VERSION,active:{...emptyStore().active,...incoming.active}}}if(incoming.schemaVersion!==SCHEMA_VERSION||!incoming.progress)throw new Error("Unbekanntes Dateiformat.");if(!confirm("Der gespeicherte Fortschritt auf diesem Gerät wird durch die importierte Datei ersetzt. Fortfahren?"))return;store=incoming;localStorage.setItem(STORAGE_KEY,JSON.stringify(store));const bid=manifest.some(b=>b.id===store.active?.book)?store.active.book:manifest[0].id;$("book").value=bid;currentBook=await loadBook(bid);populateBookUI();restoreActiveControls();updateSelectionUI();resetStudyView();alert("Fortschritt wurde importiert.");}catch(e){alert("Import fehlgeschlagen: "+e.message)}}
+async function importProgress(file){try{const data=JSON.parse(await file.text());let incoming=data.store||data;if(!incoming.progress)throw new Error("Unbekanntes Dateiformat.");incoming={...emptyStore(),...incoming,schemaVersion:SCHEMA_VERSION,active:migrateActive(incoming.active)};if(!confirm("Der gespeicherte Fortschritt auf diesem Gerät wird durch die importierte Datei ersetzt. Fortfahren?"))return;store=incoming;localStorage.setItem(STORAGE_KEY,JSON.stringify(store));writeSettingsCookie(store.active);const bid=manifest.some(b=>b.id===store.active?.book)?store.active.book:manifest[0].id;$("book").value=bid;currentBook=await loadBook(bid);populateBookUI();restoreActiveControls();updateSelectionUI();resetStudyView();alert("Fortschritt wurde importiert.");}catch(e){alert("Import fehlgeschlagen: "+e.message)}}
 
 $("book").addEventListener("change",async e=>{currentBook=await loadBook(e.target.value);populateBookUI();const first=currentBook.units[0];$("unit").value=first.id;$("pageFrom").value=first.pages[0];$("pageTo").value=first.pages[1];persistControls();resetStudyView();});
 $("selectionMode").addEventListener("change",()=>{updateSelectionUI();persistControls();resetStudyView()});
 $("unit").addEventListener("change",()=>{const u=unitMeta($("unit").value);$("pageFrom").value=u.pages[0];$("pageTo").value=u.pages[1];persistControls();resetStudyView()});
-for(const id of ["pageFrom","pageTo","direction","scope","newLimit"])$(id).addEventListener("change",()=>{persistControls();resetStudyView()});
+for(const id of ["pageFrom","pageTo","direction","scope","cardLimit"])$(id).addEventListener("change",()=>{persistControls();resetStudyView()});
 $("startBtn").onclick=startTraining;$("checkBtn").onclick=check;$("showBtn").onclick=()=>grade(false,true);$("nextBtn").onclick=next;
 $("answer").addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();answered?next():check();}});
 $("exportBtn").onclick=exportProgress;$("importBtn").onclick=()=>$("importFile").click();$("importFile").addEventListener("change",e=>{if(e.target.files[0])importProgress(e.target.files[0]);e.target.value=""});

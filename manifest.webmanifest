@@ -1,7 +1,7 @@
 {
-  "name": "Vokabeltrainer – Green Line 2",
+  "name": "Vokabeltrainer",
   "short_name": "Vokabeltrainer",
-  "description": "Offline-fähiger Vokabeltrainer für Green Line 2 (6. Klasse)",
+  "description": "Offline-fähiger Vokabeltrainer für Englischbücher",
   "lang": "de",
   "start_url": "./",
   "scope": "./",
