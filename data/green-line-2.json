@@ -4,7 +4,7 @@
   "subtitle": "6. Klasse",
   "pageRange": {
     "min": 206,
-    "max": 234
+    "max": 260
   },
   "units": [
     {
@@ -29,6 +29,30 @@
       "pages": [
         225,
         234
+      ]
+    },
+    {
+      "id": "unit4",
+      "title": "Unit 4",
+      "pages": [
+        235,
+        243
+      ]
+    },
+    {
+      "id": "unit5",
+      "title": "Unit 5",
+      "pages": [
+        244,
+        250
+      ]
+    },
+    {
+      "id": "unit6",
+      "title": "Unit 6",
+      "pages": [
+        251,
+        260
       ]
     }
   ],
@@ -4328,6 +4352,3718 @@
       "en": "to kick",
       "de": "schießen; treten",
       "context": "We kicked the football to each other in the park."
+    },
+    {
+      "id": "u4-235-01-experience",
+      "unit": "unit4",
+      "page": 235,
+      "en": "experience",
+      "de": "Erfahrung",
+      "context": "What interesting experiences can you tell us about?"
+    },
+    {
+      "id": "u4-235-02-health",
+      "unit": "unit4",
+      "page": 235,
+      "en": "health",
+      "de": "Gesundheit",
+      "context": "health → healthy"
+    },
+    {
+      "id": "u4-235-03-accident",
+      "unit": "unit4",
+      "page": 235,
+      "en": "accident",
+      "de": "Unfall",
+      "context": "My sister had a bike accident."
+    },
+    {
+      "id": "u4-235-04-camel-racing",
+      "unit": "unit4",
+      "page": 235,
+      "en": "camel racing",
+      "de": "Kamelrennen",
+      "context": "Camel racing is a very unusual sport."
+    },
+    {
+      "id": "u4-235-05-marathon",
+      "unit": "unit4",
+      "page": 235,
+      "en": "marathon",
+      "de": "Marathon",
+      "context": "Achtung Aussprache."
+    },
+    {
+      "id": "u4-235-06-cloud",
+      "unit": "unit4",
+      "page": 235,
+      "en": "cloud",
+      "de": "Wolke",
+      "context": ""
+    },
+    {
+      "id": "u4-235-07-runner",
+      "unit": "unit4",
+      "page": 235,
+      "en": "runner",
+      "de": "Läufer/-in",
+      "context": "runner → to run"
+    },
+    {
+      "id": "u4-235-08-race",
+      "unit": "unit4",
+      "page": 235,
+      "en": "race",
+      "de": "Wettlauf; Rennen",
+      "context": "Can we watch the bike race on TV, Mum?"
+    },
+    {
+      "id": "u4-235-09-to-catch-caught",
+      "unit": "unit4",
+      "page": 235,
+      "en": "to catch, caught",
+      "de": "fangen",
+      "context": "Jay threw the ball and Olivia caught it."
+    },
+    {
+      "id": "u4-235-10-match",
+      "unit": "unit4",
+      "page": 235,
+      "en": "match",
+      "de": "Spiel; Match",
+      "context": "= a game (of football/...)"
+    },
+    {
+      "id": "u4-235-11-to-pass",
+      "unit": "unit4",
+      "page": 235,
+      "en": "to pass",
+      "de": "zupassen; zuspielen",
+      "context": "Jay passed the ball to Dave and he passed it to Luke."
+    },
+    {
+      "id": "u4-235-12-racquet",
+      "unit": "unit4",
+      "page": 235,
+      "en": "racquet",
+      "de": "Schläger",
+      "context": ""
+    },
+    {
+      "id": "u4-235-13-to-ride-rode",
+      "unit": "unit4",
+      "page": 235,
+      "en": "to ride, rode",
+      "de": "fahren; reiten",
+      "context": "You can ride a bike or a horse."
+    },
+    {
+      "id": "u4-235-14-court",
+      "unit": "unit4",
+      "page": 235,
+      "en": "court",
+      "de": "Spielfeld",
+      "context": "a tennis court - a football field"
+    },
+    {
+      "id": "u4-235-15-score",
+      "unit": "unit4",
+      "page": 235,
+      "en": "score",
+      "de": "Punktestand; Spielstand",
+      "context": "At the end of the match the score was two six."
+    },
+    {
+      "id": "u4-235-16-stadium",
+      "unit": "unit4",
+      "page": 235,
+      "en": "stadium",
+      "de": "Stadion",
+      "context": "The stadium was full for the football match on Saturday."
+    },
+    {
+      "id": "u4-235-17-pitch",
+      "unit": "unit4",
+      "page": 235,
+      "en": "pitch",
+      "de": "Spielfeld; Platz",
+      "context": "You play rugby on a pitch."
+    },
+    {
+      "id": "u4-235-18-point",
+      "unit": "unit4",
+      "page": 235,
+      "en": "point",
+      "de": "Punkt",
+      "context": "That's right. One point for your team."
+    },
+    {
+      "id": "u4-235-19-programme",
+      "unit": "unit4",
+      "page": 235,
+      "en": "programme",
+      "de": "Programm; Sendung",
+      "context": "There's an interesting programme about camel racing on TV now."
+    },
+    {
+      "id": "u4-235-20-the-the",
+      "unit": "unit4",
+      "page": 235,
+      "en": "the ... the",
+      "de": "je ... desto",
+      "context": "The quicker you come home, the earlier you can eat."
+    },
+    {
+      "id": "u4-236-01-ever",
+      "unit": "unit4",
+      "page": 236,
+      "en": "ever",
+      "de": "jemals",
+      "context": "It was our funniest project ever!"
+    },
+    {
+      "id": "u4-236-02-to-run-ran-run",
+      "unit": "unit4",
+      "page": 236,
+      "en": "to run, ran, run",
+      "de": "rennen; laufen",
+      "context": "Have you ever run in a marathon?"
+    },
+    {
+      "id": "u4-236-03-to-see-saw-seen",
+      "unit": "unit4",
+      "page": 236,
+      "en": "to see, saw, seen",
+      "de": "sehen",
+      "context": "I haven't seen that girl before."
+    },
+    {
+      "id": "u4-236-04-right-here",
+      "unit": "unit4",
+      "page": 236,
+      "en": "right here",
+      "de": "genau hier",
+      "context": "The marathon starts right here."
+    },
+    {
+      "id": "u4-236-05-until",
+      "unit": "unit4",
+      "page": 236,
+      "en": "until",
+      "de": "bis; erst wenn",
+      "context": "You can't run in a marathon until you're 18."
+    },
+    {
+      "id": "u4-236-06-to-hear-heard-heard",
+      "unit": "unit4",
+      "page": 236,
+      "en": "to hear, heard, heard",
+      "de": "hören",
+      "context": "Have you heard what happened to Olivia?"
+    },
+    {
+      "id": "u4-236-07-11-year-old",
+      "unit": "unit4",
+      "page": 236,
+      "en": "11-year-old",
+      "de": "11-Jährige/-r",
+      "context": "The mini marathon is for 11- to 18-year-olds."
+    },
+    {
+      "id": "u4-237-01-running-no-pl",
+      "unit": "unit4",
+      "page": 237,
+      "en": "running (no pl)",
+      "de": "Laufen; Rennen",
+      "context": "Gwen loves running."
+    },
+    {
+      "id": "u4-237-02-trial",
+      "unit": "unit4",
+      "page": 237,
+      "en": "trial",
+      "de": "Qualifikation",
+      "context": "There are trials to find the best runners."
+    },
+    {
+      "id": "u4-237-03-who-s-in",
+      "unit": "unit4",
+      "page": 237,
+      "en": "Who's in?",
+      "de": "Wer macht mit?; Wer ist dabei?",
+      "context": "Who's in? Who is going to run with us?"
+    },
+    {
+      "id": "u4-237-04-to-be-in",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to be in",
+      "de": "dabei sein; mitmachen",
+      "context": "Are you going to run? I'm in, and I hope you are too!"
+    },
+    {
+      "id": "u4-237-05-run",
+      "unit": "unit4",
+      "page": 237,
+      "en": "run",
+      "de": "Rennen; Lauf",
+      "context": "run → to run → runner"
+    },
+    {
+      "id": "u4-237-06-to-look-out",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to look out",
+      "de": "aufpassen",
+      "context": "Look out, everyone!"
+    },
+    {
+      "id": "u4-237-07-world",
+      "unit": "unit4",
+      "page": 237,
+      "en": "world",
+      "de": "Erde; Welt",
+      "context": "Football is popular all over the world."
+    },
+    {
+      "id": "u4-237-08-to-finish",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to finish",
+      "de": "beenden; enden; fertigstellen; aufhören",
+      "context": "Luke and Gwen both finished the race."
+    },
+    {
+      "id": "u4-237-09-area",
+      "unit": "unit4",
+      "page": 237,
+      "en": "area",
+      "de": "Gegend; Gebiet; Areal; Fläche",
+      "context": "What sports events are there in your area?"
+    },
+    {
+      "id": "u4-237-10-cooking-club",
+      "unit": "unit4",
+      "page": 237,
+      "en": "cooking club",
+      "de": "Koch-AG",
+      "context": "There's a cooking club at our school."
+    },
+    {
+      "id": "u4-237-11-to-be-was-were-been",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to be, was/were, been",
+      "de": "sein",
+      "context": "I have been here before."
+    },
+    {
+      "id": "u4-237-12-to-eat-ate-eaten",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to eat, ate, eaten",
+      "de": "essen; fressen",
+      "context": "Have you eaten your breakfast? - Yes, I have."
+    },
+    {
+      "id": "u4-237-13-doctor",
+      "unit": "unit4",
+      "page": 237,
+      "en": "doctor",
+      "de": "Arzt/Ärztin",
+      "context": "Have you seen the doctor yet? / Have you been to the doctor's yet?"
+    },
+    {
+      "id": "u4-237-14-yet",
+      "unit": "unit4",
+      "page": 237,
+      "en": "yet",
+      "de": "schon; noch",
+      "context": "Have you asked your parents about the party yet?"
+    },
+    {
+      "id": "u4-237-15-not-yet",
+      "unit": "unit4",
+      "page": 237,
+      "en": "not ... yet",
+      "de": "noch nicht",
+      "context": "No, I haven't asked them yet."
+    },
+    {
+      "id": "u4-237-16-to-leave-left-left",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to leave, left, left",
+      "de": "verlassen; lassen; abfahren",
+      "context": "We're too late. The train has already left the station."
+    },
+    {
+      "id": "u4-237-17-to-train",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to train",
+      "de": "trainieren",
+      "context": "Luke plays football. He trains every day."
+    },
+    {
+      "id": "u4-237-18-to-hurt-hurt-hurt",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to hurt, hurt, hurt",
+      "de": "verletzen; weh tun",
+      "context": "I've hurt my foot. I must go to the doctor's."
+    },
+    {
+      "id": "u4-237-19-to-twist-your-ankle",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to twist your ankle",
+      "de": "sich den Knöchel verrenken",
+      "context": "I twisted my ankle yesterday. Now it really hurts."
+    },
+    {
+      "id": "u4-237-20-serious",
+      "unit": "unit4",
+      "page": 237,
+      "en": "serious",
+      "de": "ernsthaft; ernst",
+      "context": "Don't laugh! This is serious."
+    },
+    {
+      "id": "u4-237-21-pain",
+      "unit": "unit4",
+      "page": 237,
+      "en": "pain",
+      "de": "Schmerz",
+      "context": "I've got a really bad pain in my left foot."
+    },
+    {
+      "id": "u4-237-22-unfair",
+      "unit": "unit4",
+      "page": 237,
+      "en": "unfair",
+      "de": "unfair",
+      "context": "unfair ↔ fair"
+    },
+    {
+      "id": "u4-237-23-to-do-did-done",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to do, did, done",
+      "de": "machen; tun",
+      "context": "Have you done your homework yet?"
+    },
+    {
+      "id": "u4-237-24-to-buy-bought-bought",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to buy, bought, bought",
+      "de": "kaufen",
+      "context": "I've bought some sandwiches for the picnic."
+    },
+    {
+      "id": "u4-237-25-to-find-found-found",
+      "unit": "unit4",
+      "page": 237,
+      "en": "to find, found, found",
+      "de": "finden; herausfinden",
+      "context": "I haven't found any information about the marathon on the internet."
+    },
+    {
+      "id": "u4-238-01-mile",
+      "unit": "unit4",
+      "page": 238,
+      "en": "mile",
+      "de": "Meile (brit. Längenmaß)",
+      "context": "1 mile = 1,609 metres"
+    },
+    {
+      "id": "u4-238-02-chant",
+      "unit": "unit4",
+      "page": 238,
+      "en": "chant",
+      "de": "Sprechgesang",
+      "context": "All the people were singing a chant to the runners."
+    },
+    {
+      "id": "u4-238-03-to-cheer-on",
+      "unit": "unit4",
+      "page": 238,
+      "en": "to cheer (on)",
+      "de": "jubeln; anfeuern",
+      "context": "Jay is writing a chant to cheer on the runners in the marathon."
+    },
+    {
+      "id": "u4-238-04-to-have-had-had",
+      "unit": "unit4",
+      "page": 238,
+      "en": "to have, had, had",
+      "de": "haben",
+      "context": "I've had this pain for two weeks now."
+    },
+    {
+      "id": "u4-238-05-to-have-a-look-at",
+      "unit": "unit4",
+      "page": 238,
+      "en": "to have a look (at)",
+      "de": "anschauen",
+      "context": "Let's have a look at it. = Let's look at it."
+    },
+    {
+      "id": "u4-238-06-shouldn-t",
+      "unit": "unit4",
+      "page": 238,
+      "en": "shouldn't",
+      "de": "sollte(n) nicht",
+      "context": "Olivia shouldn't run in the marathon with a twisted ankle."
+    },
+    {
+      "id": "u4-238-07-prescription",
+      "unit": "unit4",
+      "page": 238,
+      "en": "prescription",
+      "de": "Rezept (für Arzneimittel)",
+      "context": "The doctor gave me a prescription."
+    },
+    {
+      "id": "u4-238-08-ointment",
+      "unit": "unit4",
+      "page": 238,
+      "en": "ointment",
+      "de": "Salbe",
+      "context": "Olivia has a prescription for some ointment."
+    },
+    {
+      "id": "u4-238-09-shoulder",
+      "unit": "unit4",
+      "page": 238,
+      "en": "shoulder",
+      "de": "Schulter",
+      "context": ""
+    },
+    {
+      "id": "u4-238-10-headache",
+      "unit": "unit4",
+      "page": 238,
+      "en": "headache",
+      "de": "Kopfschmerzen; Kopfweh",
+      "context": "I've got a bad headache today."
+    },
+    {
+      "id": "u4-238-11-backache",
+      "unit": "unit4",
+      "page": 238,
+      "en": "backache",
+      "de": "Rückenschmerzen; Rückenweh",
+      "context": "backache → back"
+    },
+    {
+      "id": "u4-238-12-stomachache",
+      "unit": "unit4",
+      "page": 238,
+      "en": "stomachache",
+      "de": "Bauchschmerzen; Bauchweh",
+      "context": "I've eaten something bad and now I have stomachache."
+    },
+    {
+      "id": "u4-238-13-to-feel-sick",
+      "unit": "unit4",
+      "page": 238,
+      "en": "to feel sick",
+      "de": "Übelkeit verspüren; sich schlecht fühlen",
+      "context": "I feel sick. = Mir ist schlecht/übel."
+    },
+    {
+      "id": "u4-238-14-cold",
+      "unit": "unit4",
+      "page": 238,
+      "en": "cold",
+      "de": "Erkältung",
+      "context": "I can't come. I've got a cold."
+    },
+    {
+      "id": "u4-238-15-cough",
+      "unit": "unit4",
+      "page": 238,
+      "en": "cough",
+      "de": "Husten",
+      "context": "This cough is annoying. It won't go away."
+    },
+    {
+      "id": "u4-238-16-fever",
+      "unit": "unit4",
+      "page": 238,
+      "en": "fever",
+      "de": "Fieber",
+      "context": "People with a cold often have a cough and fever."
+    },
+    {
+      "id": "u4-238-17-pill",
+      "unit": "unit4",
+      "page": 238,
+      "en": "pill",
+      "de": "Pille; Tablette",
+      "context": "The doctor wrote a prescription for some pills."
+    },
+    {
+      "id": "u4-239-01-to-interview",
+      "unit": "unit4",
+      "page": 239,
+      "en": "to interview",
+      "de": "interviewen; befragen",
+      "context": "to interview → an interview"
+    },
+    {
+      "id": "u4-239-02-cramp",
+      "unit": "unit4",
+      "page": 239,
+      "en": "cramp",
+      "de": "Krampf",
+      "context": "I had a cramp in my leg in my first marathon."
+    },
+    {
+      "id": "u4-239-03-to-win-won-won",
+      "unit": "unit4",
+      "page": 239,
+      "en": "to win, won, won",
+      "de": "gewinnen; siegen",
+      "context": "Ayla has won a lot of competitions."
+    },
+    {
+      "id": "u4-239-04-award",
+      "unit": "unit4",
+      "page": 239,
+      "en": "award",
+      "de": "Auszeichnung; Preis",
+      "context": "Have you won any competitions or awards?"
+    },
+    {
+      "id": "u4-239-05-to-break-broke-broken",
+      "unit": "unit4",
+      "page": 239,
+      "en": "to break, broke, broken",
+      "de": "brechen; zerbrechen",
+      "context": "I fell and have broken my ankle."
+    },
+    {
+      "id": "u4-239-06-while",
+      "unit": "unit4",
+      "page": 239,
+      "en": "while",
+      "de": "während; solange",
+      "context": "Let's play a game while we're waiting for the bus."
+    },
+    {
+      "id": "u4-239-07-to-fall-off-fell-off-fallen-off",
+      "unit": "unit4",
+      "page": 239,
+      "en": "to fall off, fell off, fallen off",
+      "de": "herunterfallen; hinunterfallen",
+      "context": "The little boy has fallen off his bike. Now he's crying."
+    },
+    {
+      "id": "u4-239-08-almost",
+      "unit": "unit4",
+      "page": 239,
+      "en": "almost",
+      "de": "fast; beinahe",
+      "context": "It's almost 8 o'clock! You're late for school."
+    },
+    {
+      "id": "u4-239-09-to-be-sick",
+      "unit": "unit4",
+      "page": 239,
+      "en": "to be sick",
+      "de": "sich übergeben",
+      "context": "I was sick in the car."
+    },
+    {
+      "id": "u4-240-01-player",
+      "unit": "unit4",
+      "page": 240,
+      "en": "player",
+      "de": "Spieler/-in; Mitspieler/-in",
+      "context": "player → to play"
+    },
+    {
+      "id": "u4-240-02-crowd",
+      "unit": "unit4",
+      "page": 240,
+      "en": "crowd",
+      "de": "Zuschauer; Menschenmenge",
+      "context": "= a lot of people all together in one place"
+    },
+    {
+      "id": "u4-240-03-so-far",
+      "unit": "unit4",
+      "page": 240,
+      "en": "so far",
+      "de": "bis jetzt",
+      "context": "The players have given the people a great match so far."
+    },
+    {
+      "id": "u4-240-04-hard",
+      "unit": "unit4",
+      "page": 240,
+      "en": "hard",
+      "de": "fest; stark",
+      "context": "The other player pulled me too hard."
+    },
+    {
+      "id": "u4-240-05-to-think-thought-thought",
+      "unit": "unit4",
+      "page": 240,
+      "en": "to think, thought, thought",
+      "de": "denken; nachdenken; glauben",
+      "context": "I have thought about it. I like your idea."
+    },
+    {
+      "id": "u4-240-06-onto",
+      "unit": "unit4",
+      "page": 240,
+      "en": "onto",
+      "de": "auf ... hinauf",
+      "context": "Somebody ran onto the pitch and they stopped the match."
+    },
+    {
+      "id": "u4-240-07-profile",
+      "unit": "unit4",
+      "page": 240,
+      "en": "profile",
+      "de": "Profil; Porträt",
+      "context": "I found this profile about my favourite player on the internet."
+    },
+    {
+      "id": "u4-240-08-goal",
+      "unit": "unit4",
+      "page": 240,
+      "en": "goal",
+      "de": "Tor; Ziel",
+      "context": "There are two goals on a football pitch."
+    },
+    {
+      "id": "u4-240-09-to-get-through-sth",
+      "unit": "unit4",
+      "page": 240,
+      "en": "to get through sth",
+      "de": "etw. überstehen",
+      "context": "Steve hopes he gets through his exams OK."
+    },
+    {
+      "id": "u4-240-10-season",
+      "unit": "unit4",
+      "page": 240,
+      "en": "season",
+      "de": "Saison; Jahreszeit",
+      "context": "The football season is usually from August to May."
+    },
+    {
+      "id": "u4-240-11-leg",
+      "unit": "unit4",
+      "page": 240,
+      "en": "leg",
+      "de": "Bein",
+      "context": ""
+    },
+    {
+      "id": "u4-240-12-attention",
+      "unit": "unit4",
+      "page": 240,
+      "en": "attention",
+      "de": "Aufmerksamkeit; Beachtung",
+      "context": "Nick doesn't like all the attention football gets."
+    },
+    {
+      "id": "u4-240-13-trainer",
+      "unit": "unit4",
+      "page": 240,
+      "en": "trainer",
+      "de": "Trainer/-in",
+      "context": "trainer → to train"
+    },
+    {
+      "id": "u4-240-14-kimbap",
+      "unit": "unit4",
+      "page": 240,
+      "en": "kimbap",
+      "de": "koreanischer Snack aus Seegras, Reis, ...",
+      "context": "Kimbap is Jinsoo's favourite food."
+    },
+    {
+      "id": "u4-240-15-korean",
+      "unit": "unit4",
+      "page": 240,
+      "en": "Korean",
+      "de": "koreanisch; Koreanisch",
+      "context": "There was Korean food at the picnic."
+    },
+    {
+      "id": "u4-240-16-attic",
+      "unit": "unit4",
+      "page": 240,
+      "en": "attic",
+      "de": "Dachboden",
+      "context": ""
+    },
+    {
+      "id": "u4-240-17-to-fake",
+      "unit": "unit4",
+      "page": 240,
+      "en": "to fake",
+      "de": "vortäuschen; fälschen",
+      "context": "It isn't very nice to fake something."
+    },
+    {
+      "id": "u4-240-18-injury",
+      "unit": "unit4",
+      "page": 240,
+      "en": "injury",
+      "de": "Verletzung",
+      "context": "Who faked an injury in the football match?"
+    },
+    {
+      "id": "u4-240-19-to-teach-somebody-a-lesson",
+      "unit": "unit4",
+      "page": 240,
+      "en": "to teach somebody a lesson",
+      "de": "jmdm. eine Lehre/Lektion erteilen",
+      "context": "That wasn't a nice thing to do. Let's teach him a lesson."
+    },
+    {
+      "id": "u4-240-20-to-teach-taught-taught",
+      "unit": "unit4",
+      "page": 240,
+      "en": "to teach, taught, taught",
+      "de": "unterrichten; lehren; beibringen",
+      "context": "to teach → teacher"
+    },
+    {
+      "id": "u4-240-21-to-deserve",
+      "unit": "unit4",
+      "page": 240,
+      "en": "to deserve",
+      "de": "verdienen",
+      "context": "The others are angry with you, but you deserved it."
+    },
+    {
+      "id": "u4-240-22-point-of-view",
+      "unit": "unit4",
+      "page": 240,
+      "en": "point of view",
+      "de": "Standpunkt; Ansicht; Perspektive",
+      "context": "Who's right and who's wrong from your point of view?"
+    },
+    {
+      "id": "u4-240-23-to-get-away-with-sth",
+      "unit": "unit4",
+      "page": 240,
+      "en": "to get away with sth",
+      "de": "davonkommen; durchkommen",
+      "context": "Marley did not get away with it."
+    },
+    {
+      "id": "u4-240-24-cress",
+      "unit": "unit4",
+      "page": 240,
+      "en": "cress",
+      "de": "Kresse",
+      "context": "Egg and cress sandwiches are so good!"
+    },
+    {
+      "id": "u4-240-25-scotch-egg",
+      "unit": "unit4",
+      "page": 240,
+      "en": "Scotch egg",
+      "de": "hart gekochtes Ei in Wurstbrät",
+      "context": "You always have Scotch eggs at English picnics."
+    },
+    {
+      "id": "u4-241-01-quiche",
+      "unit": "unit4",
+      "page": 241,
+      "en": "quiche",
+      "de": "Quiche",
+      "context": "You can put vegetables, eggs and cheese in a quiche."
+    },
+    {
+      "id": "u4-241-02-tuna",
+      "unit": "unit4",
+      "page": 241,
+      "en": "tuna",
+      "de": "Thunfisch",
+      "context": "You can put tuna in sandwiches, on a pizza or in a quiche."
+    },
+    {
+      "id": "u4-241-03-rescue",
+      "unit": "unit4",
+      "page": 241,
+      "en": "rescue",
+      "de": "Rettung",
+      "context": "Here's a report about a rescue in the mountains."
+    },
+    {
+      "id": "u4-241-04-presenter",
+      "unit": "unit4",
+      "page": 241,
+      "en": "presenter",
+      "de": "Moderator/-in",
+      "context": "The presenter was very serious when he read the news."
+    },
+    {
+      "id": "u4-241-05-eyewitness",
+      "unit": "unit4",
+      "page": 241,
+      "en": "eyewitness",
+      "de": "Augenzeuge/Augenzeugin",
+      "context": "The reporter is talking to an eyewitness."
+    },
+    {
+      "id": "u4-241-06-formal",
+      "unit": "unit4",
+      "page": 241,
+      "en": "formal",
+      "de": "formal; formell; förmlich",
+      "context": "We wrote a formal letter to the presenter of the show."
+    },
+    {
+      "id": "u4-241-07-listener",
+      "unit": "unit4",
+      "page": 241,
+      "en": "listener",
+      "de": "Zuhörer/-in",
+      "context": "listener → to listen"
+    },
+    {
+      "id": "u4-241-08-i-couldn-t-believe-my-eyes",
+      "unit": "unit4",
+      "page": 241,
+      "en": "I couldn't believe my eyes.",
+      "de": "Ich traute meinen Augen nicht.",
+      "context": "I couldn't believe my eyes when I got a dog for my birthday."
+    },
+    {
+      "id": "u4-241-09-witness",
+      "unit": "unit4",
+      "page": 241,
+      "en": "witness",
+      "de": "Zeuge/Zeugin",
+      "context": "The police are looking for witnesses of the accident."
+    },
+    {
+      "id": "u4-241-10-silly",
+      "unit": "unit4",
+      "page": 241,
+      "en": "silly",
+      "de": "Dummkopf",
+      "context": "It isn't very nice to call someone 'silly'."
+    },
+    {
+      "id": "u4-241-11-partially-sighted",
+      "unit": "unit4",
+      "page": 241,
+      "en": "partially sighted",
+      "de": "sehbehindert",
+      "context": "Gwen is a new girl at TTS. She's partially sighted."
+    },
+    {
+      "id": "u4-241-12-to-let-go-of",
+      "unit": "unit4",
+      "page": 241,
+      "en": "to let go (of)",
+      "de": "loslassen",
+      "context": "Don't let go of my hand, Gwen!"
+    },
+    {
+      "id": "u4-241-13-line",
+      "unit": "unit4",
+      "page": 241,
+      "en": "line",
+      "de": "hier: Text",
+      "context": "Luke, that's my line!"
+    },
+    {
+      "id": "u4-241-14-fancy-dress-no-pl",
+      "unit": "unit4",
+      "page": 241,
+      "en": "fancy dress (no pl)",
+      "de": "Verkleidung; Kostüm",
+      "context": "Look at those people in fancy dress. They look so funny!"
+    },
+    {
+      "id": "u4-241-15-to-breathe",
+      "unit": "unit4",
+      "page": 241,
+      "en": "to breathe",
+      "de": "atmen",
+      "context": "Run slower, I can't breathe."
+    },
+    {
+      "id": "u4-241-16-to-keep-up-kept-up-kept-up-with",
+      "unit": "unit4",
+      "page": 241,
+      "en": "to keep up, kept up, kept up (with)",
+      "de": "mithalten (mit); Schritt halten (mit)",
+      "context": "Can Luke keep up with Gwen? = Is Luke fast enough?"
+    },
+    {
+      "id": "u4-241-17-to-be-worried",
+      "unit": "unit4",
+      "page": 241,
+      "en": "to be worried",
+      "de": "beunruhigt sein; besorgt sein",
+      "context": "Don't be worried. = Don't worry."
+    },
+    {
+      "id": "u4-241-18-to-take-sth-seriously",
+      "unit": "unit4",
+      "page": 241,
+      "en": "to take sth seriously",
+      "de": "etw. ernst nehmen",
+      "context": "Ayla takes running seriously."
+    },
+    {
+      "id": "u4-241-19-to-get-in-the-way",
+      "unit": "unit4",
+      "page": 241,
+      "en": "to get in the way",
+      "de": "stören; im Weg stehen",
+      "context": "The people in fancy dress shouldn't get in the way of the runners."
+    },
+    {
+      "id": "u4-241-20-stomach",
+      "unit": "unit4",
+      "page": 241,
+      "en": "stomach",
+      "de": "Magen; Bauch",
+      "context": ""
+    },
+    {
+      "id": "u4-241-21-glasses-pl",
+      "unit": "unit4",
+      "page": 241,
+      "en": "glasses (pl)",
+      "de": "Brille",
+      "context": "glasses steht immer im Plural: My glasses are broken. I need new ones."
+    },
+    {
+      "id": "u4-241-22-finish-line",
+      "unit": "unit4",
+      "page": 241,
+      "en": "finish line",
+      "de": "Ziellinie",
+      "context": "At the end of a run there's always a finish line."
+    },
+    {
+      "id": "u4-241-23-stupid",
+      "unit": "unit4",
+      "page": 241,
+      "en": "stupid",
+      "de": "dumm; blöd",
+      "context": "The stupid cat and dog ran into the road."
+    },
+    {
+      "id": "u4-241-24-to-be-gone",
+      "unit": "unit4",
+      "page": 241,
+      "en": "to be gone",
+      "de": "verschwunden sein; weg sein",
+      "context": "Near the end of the race Gwen's cramp was gone."
+    },
+    {
+      "id": "u4-242-01-to-sound",
+      "unit": "unit4",
+      "page": 242,
+      "en": "to sound",
+      "de": "klingen",
+      "context": "I like your music. It sounds good."
+    },
+    {
+      "id": "u4-242-02-we-did-it",
+      "unit": "unit4",
+      "page": 242,
+      "en": "We did it!",
+      "de": "Wir haben es geschafft!",
+      "context": "Luke and Gwen at the finish line: 'We did it!'"
+    },
+    {
+      "id": "u4-242-03-both",
+      "unit": "unit4",
+      "page": 242,
+      "en": "both",
+      "de": "beide",
+      "context": "Luke and Gwen both made it."
+    },
+    {
+      "id": "u4-242-04-to-ruin",
+      "unit": "unit4",
+      "page": 242,
+      "en": "to ruin",
+      "de": "ruinieren; zerstören",
+      "context": "Jay and Dave almost ruined the race for Luke and Gwen."
+    },
+    {
+      "id": "u4-242-05-because-of",
+      "unit": "unit4",
+      "page": 242,
+      "en": "because of",
+      "de": "wegen",
+      "context": "My feet really hurt because of my new shoes."
+    },
+    {
+      "id": "u4-242-06-in-the-middle-of",
+      "unit": "unit4",
+      "page": 242,
+      "en": "in the middle of",
+      "de": "mitten in",
+      "context": "I had a cramp in the middle of the race."
+    },
+    {
+      "id": "u4-242-07-official",
+      "unit": "unit4",
+      "page": 242,
+      "en": "official",
+      "de": "Schiedsrichter/-in",
+      "context": "In a race there are always officials."
+    },
+    {
+      "id": "u4-242-08-finally",
+      "unit": "unit4",
+      "page": 242,
+      "en": "finally",
+      "de": "schließlich; endlich; zum Schluss",
+      "context": "first → then → finally"
+    },
+    {
+      "id": "u4-242-09-to-surprise",
+      "unit": "unit4",
+      "page": 242,
+      "en": "to surprise",
+      "de": "überraschen",
+      "context": "to surprise → surprise"
+    },
+    {
+      "id": "u4-242-10-in-secret",
+      "unit": "unit4",
+      "page": 242,
+      "en": "in secret",
+      "de": "heimlich",
+      "context": "Jay and Dave trained in secret. No one knew about it."
+    },
+    {
+      "id": "u4-242-11-to-forgive-forgave-forgiven",
+      "unit": "unit4",
+      "page": 242,
+      "en": "to forgive, forgave, forgiven",
+      "de": "vergeben; verzeihen",
+      "context": "Gwen and Luke have finally forgiven Jay and Dave."
+    },
+    {
+      "id": "u4-242-12-to-cause",
+      "unit": "unit4",
+      "page": 242,
+      "en": "to cause",
+      "de": "verursachen",
+      "context": "What or who caused the accident?"
+    },
+    {
+      "id": "u4-242-13-hope",
+      "unit": "unit4",
+      "page": 242,
+      "en": "hope",
+      "de": "Hoffnung",
+      "context": "hope → to hope"
+    },
+    {
+      "id": "u4-242-14-fear",
+      "unit": "unit4",
+      "page": 242,
+      "en": "fear",
+      "de": "Angst; Furcht; Befürchtung",
+      "context": "= the feeling you have when you are scared"
+    },
+    {
+      "id": "u4-242-15-relationship",
+      "unit": "unit4",
+      "page": 242,
+      "en": "relationship",
+      "de": "Beziehung",
+      "context": "Is the relationship between you and your neighbours a good one?"
+    },
+    {
+      "id": "u4-242-16-positive",
+      "unit": "unit4",
+      "page": 242,
+      "en": "positive",
+      "de": "positiv",
+      "context": "I try to be positive before an exam."
+    },
+    {
+      "id": "u4-242-17-negative",
+      "unit": "unit4",
+      "page": 242,
+      "en": "negative",
+      "de": "negativ; verneint",
+      "context": "negative ↔ positive"
+    },
+    {
+      "id": "u4-242-18-on-the-one-hand-but-on-the-other-hand",
+      "unit": "unit4",
+      "page": 242,
+      "en": "On the one hand ... (but) on the other hand ...",
+      "de": "Einerseits ... (aber) andererseits ...",
+      "context": "On the one hand he'd like to be a better runner, but on the other hand he doesn't want to train very hard."
+    },
+    {
+      "id": "u4-242-19-private",
+      "unit": "unit4",
+      "page": 242,
+      "en": "private",
+      "de": "privat; Privat-",
+      "context": "private ↔ public"
+    },
+    {
+      "id": "u4-242-20-travelling-no-pl",
+      "unit": "unit4",
+      "page": 242,
+      "en": "travelling (no pl)",
+      "de": "(das) Reisen",
+      "context": "travelling → to travel"
+    },
+    {
+      "id": "u4-242-21-to-regret-sth",
+      "unit": "unit4",
+      "page": 242,
+      "en": "to regret sth",
+      "de": "etw. bedauern",
+      "context": "I regret the silly things I said to my friend."
+    },
+    {
+      "id": "u4-242-22-thought",
+      "unit": "unit4",
+      "page": 242,
+      "en": "thought",
+      "de": "Gedanke",
+      "context": "thought → to think"
+    },
+    {
+      "id": "u4-242-23-to-express",
+      "unit": "unit4",
+      "page": 242,
+      "en": "to express",
+      "de": "ausdrücken",
+      "context": "When I'm sad I find it hard to express my feelings."
+    },
+    {
+      "id": "u4-242-24-script",
+      "unit": "unit4",
+      "page": 242,
+      "en": "script",
+      "de": "Drehbuch; Skript",
+      "context": "The actor didn't want to act in the film because he didn't like the script."
+    },
+    {
+      "id": "u4-243-01-half-of-halves-pl",
+      "unit": "unit4",
+      "page": 243,
+      "en": "half (of), halves (pl)",
+      "de": "die Hälfte",
+      "context": "About half of the things for the flea market are old books."
+    },
+    {
+      "id": "u4-243-02-to-write-wrote-written",
+      "unit": "unit4",
+      "page": 243,
+      "en": "to write, wrote, written",
+      "de": "schreiben",
+      "context": "Jay has written a chant for the marathon."
+    },
+    {
+      "id": "u4-243-03-to-create",
+      "unit": "unit4",
+      "page": 243,
+      "en": "to create",
+      "de": "schaffen; erschaffen; erfinden",
+      "context": "Do you create new characters in your manga comics?"
+    },
+    {
+      "id": "u4-243-04-full",
+      "unit": "unit4",
+      "page": 243,
+      "en": "full",
+      "de": "ganz; vollständig",
+      "context": "Write down your full name, please, not only your first name."
+    },
+    {
+      "id": "u4-243-05-bicycle-motocross-bmx",
+      "unit": "unit4",
+      "page": 243,
+      "en": "bicycle motocross (BMX)",
+      "de": "Fahrradmotocross (-BMX)",
+      "context": "The full name for BMX is bicycle motocross."
+    },
+    {
+      "id": "u4-243-06-bicycle",
+      "unit": "unit4",
+      "page": 243,
+      "en": "bicycle",
+      "de": "Fahrrad",
+      "context": "The word 'bike' is short for 'bicycle'."
+    },
+    {
+      "id": "u5-244-01-to-stay-in-touch-with",
+      "unit": "unit5",
+      "page": 244,
+      "en": "to stay in touch (with)",
+      "de": "in Kontakt bleiben (mit)",
+      "context": "Emails are a good way to stay in touch with your friends."
+    },
+    {
+      "id": "u5-244-02-interest",
+      "unit": "unit5",
+      "page": 244,
+      "en": "interest",
+      "de": "Interesse",
+      "context": "interest → interesting → to be interested in"
+    },
+    {
+      "id": "u5-244-03-paradise",
+      "unit": "unit5",
+      "page": 244,
+      "en": "paradise",
+      "de": "Paradies",
+      "context": "Achtung Schreibung und Aussprache."
+    },
+    {
+      "id": "u5-244-04-print",
+      "unit": "unit5",
+      "page": 244,
+      "en": "print",
+      "de": "gedruckt; Druck-",
+      "context": "I look for information on the internet, but I buy print magazines too."
+    },
+    {
+      "id": "u5-244-05-for",
+      "unit": "unit5",
+      "page": 244,
+      "en": "for",
+      "de": "wegen",
+      "context": "I buy print magazines for the posters. = I buy them because of the posters."
+    },
+    {
+      "id": "u5-244-06-to-compare-with-to",
+      "unit": "unit5",
+      "page": 244,
+      "en": "to compare (with/to)",
+      "de": "vergleichen (mit)",
+      "context": "My friends and I always compare our scores and see who is best."
+    },
+    {
+      "id": "u5-245-01-social-network",
+      "unit": "unit5",
+      "page": 245,
+      "en": "social network",
+      "de": "soziales Netzwerk",
+      "context": "You can chat with all kinds of people in social networks."
+    },
+    {
+      "id": "u5-245-02-nasty",
+      "unit": "unit5",
+      "page": 245,
+      "en": "nasty",
+      "de": "garstig; gemein",
+      "context": "nasty ↔ nice"
+    },
+    {
+      "id": "u5-245-03-cyber-bully",
+      "unit": "unit5",
+      "page": 245,
+      "en": "cyber bully",
+      "de": "jemand, der andere in sozialen Netzwerken belästigt oder mobbt",
+      "context": "Cyber bullies often write nasty comments in social networks."
+    },
+    {
+      "id": "u5-245-04-media-pl",
+      "unit": "unit5",
+      "page": 245,
+      "en": "media (pl)",
+      "de": "Medien",
+      "context": "Radio, TV and the internet are all different kinds of media."
+    },
+    {
+      "id": "u5-245-05-jealous",
+      "unit": "unit5",
+      "page": 245,
+      "en": "jealous",
+      "de": "eifersüchtig; neidisch",
+      "context": "Is Luke jealous of Jay?"
+    },
+    {
+      "id": "u5-245-06-discussion",
+      "unit": "unit5",
+      "page": 245,
+      "en": "discussion",
+      "de": "Diskussion",
+      "context": "discussion → to discuss"
+    },
+    {
+      "id": "u5-245-07-practical",
+      "unit": "unit5",
+      "page": 245,
+      "en": "practical",
+      "de": "nützlich",
+      "context": "Smartphones are practical if you want to stay in touch with friends."
+    },
+    {
+      "id": "u5-245-08-to-share",
+      "unit": "unit5",
+      "page": 245,
+      "en": "to share",
+      "de": "teilen",
+      "context": "Can I have half of your sandwich, please? Can we share it, please?"
+    },
+    {
+      "id": "u5-245-09-addiction",
+      "unit": "unit5",
+      "page": 245,
+      "en": "addiction",
+      "de": "Sucht; Abhängigkeit",
+      "context": "Social networks can become an addiction."
+    },
+    {
+      "id": "u5-245-10-mobile",
+      "unit": "unit5",
+      "page": 245,
+      "en": "mobile",
+      "de": "Handy; Mobiltelefon",
+      "context": "mobile = mobile phone"
+    },
+    {
+      "id": "u5-246-01-agony-aunt",
+      "unit": "unit5",
+      "page": 246,
+      "en": "agony aunt",
+      "de": "Kummerkastentante",
+      "context": "Lauren wrote a letter to the agony aunt of her favourite magazine."
+    },
+    {
+      "id": "u5-246-02-teen",
+      "unit": "unit5",
+      "page": 246,
+      "en": "teen",
+      "de": "Jugendliche/-r",
+      "context": "teen → teenager"
+    },
+    {
+      "id": "u5-246-03-what-to-do",
+      "unit": "unit5",
+      "page": 246,
+      "en": "What to do ...",
+      "de": "was ... tun soll/-st/-t/en",
+      "context": "I don't know what to do."
+    },
+    {
+      "id": "u5-246-04-to-spend-spent-spent",
+      "unit": "unit5",
+      "page": 246,
+      "en": "to spend, spent, spent",
+      "de": "verbringen (Zeit)",
+      "context": "I spent my holidays at my grandparents' house."
+    },
+    {
+      "id": "u5-246-05-the-two-of-them",
+      "unit": "unit5",
+      "page": 246,
+      "en": "the two of them",
+      "de": "beide",
+      "context": "My brothers sent me a photo of the two of them."
+    },
+    {
+      "id": "u5-246-06-site",
+      "unit": "unit5",
+      "page": 246,
+      "en": "site",
+      "de": "Website",
+      "context": "I found an interesting site about social network addiction."
+    },
+    {
+      "id": "u5-246-07-so-that",
+      "unit": "unit5",
+      "page": 246,
+      "en": "so (that)",
+      "de": "damit; sodass",
+      "context": "My friend posts lots of pictures so that everyone can see what she is doing."
+    },
+    {
+      "id": "u5-246-08-whenever",
+      "unit": "unit5",
+      "page": 246,
+      "en": "whenever",
+      "de": "wann immer; jedes Mal, wenn; so oft",
+      "context": "Whenever I ask my brother for something, he says \"no\"."
+    },
+    {
+      "id": "u5-246-09-shall",
+      "unit": "unit5",
+      "page": 246,
+      "en": "shall",
+      "de": "sollen",
+      "context": "I've got a big problem and need some advice. What shall I do?"
+    },
+    {
+      "id": "u5-246-10-as",
+      "unit": "unit5",
+      "page": 246,
+      "en": "as",
+      "de": "da; weil",
+      "context": "As you were late, we decided to leave without you."
+    },
+    {
+      "id": "u5-246-11-upset",
+      "unit": "unit5",
+      "page": 246,
+      "en": "upset",
+      "de": "aufgebracht; bestürzt",
+      "context": "Why are you so upset? - My sister lost my phone!"
+    },
+    {
+      "id": "u5-246-12-self-critical",
+      "unit": "unit5",
+      "page": 246,
+      "en": "self-critical",
+      "de": "selbstkritisch",
+      "context": "The agony aunt's advice is to be self-critical."
+    },
+    {
+      "id": "u5-246-13-to-overreact",
+      "unit": "unit5",
+      "page": 246,
+      "en": "to overreact",
+      "de": "überreagieren",
+      "context": "I know you're angry with him, but don't overreact."
+    },
+    {
+      "id": "u5-246-14-as-soon-as",
+      "unit": "unit5",
+      "page": 246,
+      "en": "as soon as",
+      "de": "sobald",
+      "context": "Things usually get better as soon as you talk about a problem."
+    },
+    {
+      "id": "u5-246-15-to-make-sb-do-something",
+      "unit": "unit5",
+      "page": 246,
+      "en": "to make sb do something",
+      "de": "jmdn. dazu bringen, etw. zu tun",
+      "context": "My friends made me do it."
+    },
+    {
+      "id": "u5-246-16-piece-of-advice",
+      "unit": "unit5",
+      "page": 246,
+      "en": "piece of advice",
+      "de": "Rat; Ratschlag; Hinweis",
+      "context": "Ruby gave me a great piece of advice."
+    },
+    {
+      "id": "u5-246-17-to-meet-met-met",
+      "unit": "unit5",
+      "page": 246,
+      "en": "to meet, met, met",
+      "de": "(sich) treffen; (sich) begegnen; (sich) kennenlernen",
+      "context": "We have met before somewhere."
+    },
+    {
+      "id": "u5-246-18-to-block",
+      "unit": "unit5",
+      "page": 246,
+      "en": "to block",
+      "de": "blockieren; abblocken",
+      "context": "You can block messages from people you don't like."
+    },
+    {
+      "id": "u5-246-19-face-to-face",
+      "unit": "unit5",
+      "page": 246,
+      "en": "face-to-face",
+      "de": "persönlich; von Angesicht zu Angesicht",
+      "context": "It's fun to meet people face-to-face and not just in social networks."
+    },
+    {
+      "id": "u5-246-20-forever",
+      "unit": "unit5",
+      "page": 246,
+      "en": "forever",
+      "de": "für immer; ewig",
+      "context": "When you post photos on the internet, they don't go away. They can stay there forever."
+    },
+    {
+      "id": "u5-246-21-to-care-about",
+      "unit": "unit5",
+      "page": 246,
+      "en": "to care (about)",
+      "de": "wichtig nehmen; sich kümmern (um); sich interessieren (für)",
+      "context": "If you care about something it's important to you."
+    },
+    {
+      "id": "u5-246-22-myself",
+      "unit": "unit5",
+      "page": 246,
+      "en": "myself",
+      "de": "ich/mir/mich (selbst); selber",
+      "context": "myself → yourself"
+    },
+    {
+      "id": "u5-246-23-entry",
+      "unit": "unit5",
+      "page": 246,
+      "en": "entry",
+      "de": "Eintrag",
+      "context": "a forum entry, a dictionary entry"
+    },
+    {
+      "id": "u5-246-24-category",
+      "unit": "unit5",
+      "page": 246,
+      "en": "category",
+      "de": "Kategorie; Klasse",
+      "context": "Achtung Schreibung und Aussprache."
+    },
+    {
+      "id": "u5-247-01-understanding",
+      "unit": "unit5",
+      "page": 247,
+      "en": "understanding",
+      "de": "Verständnis",
+      "context": "What can you say to show understanding?"
+    },
+    {
+      "id": "u5-247-02-compromise",
+      "unit": "unit5",
+      "page": 247,
+      "en": "compromise",
+      "de": "Kompromiss",
+      "context": "It isn't always easy to find a compromise."
+    },
+    {
+      "id": "u5-247-03-friendship",
+      "unit": "unit5",
+      "page": 247,
+      "en": "friendship",
+      "de": "Freundschaft",
+      "context": "I've got lots of friends. I think friendship is very important."
+    },
+    {
+      "id": "u5-247-04-up",
+      "unit": "unit5",
+      "page": 247,
+      "en": "up",
+      "de": "hinauf; (nach) oben",
+      "context": "When you ask a question, your voice usually goes up at the end of the question."
+    },
+    {
+      "id": "u5-247-05-cyberbullying",
+      "unit": "unit5",
+      "page": 247,
+      "en": "cyberbullying",
+      "de": "Cyber-Mobbing",
+      "context": "Sam needs help with the cyberbullying."
+    },
+    {
+      "id": "u5-247-06-whose",
+      "unit": "unit5",
+      "page": 247,
+      "en": "whose",
+      "de": "dessen; deren (Relativpronomen)",
+      "context": "Sally has a brother whose name is Mark."
+    },
+    {
+      "id": "u5-247-07-member",
+      "unit": "unit5",
+      "page": 247,
+      "en": "member",
+      "de": "Mitglied",
+      "context": "Dave is a member of the Preston family."
+    },
+    {
+      "id": "u5-247-08-to-mediate",
+      "unit": "unit5",
+      "page": 247,
+      "en": "to mediate",
+      "de": "vermitteln",
+      "context": "to mediate → mediation"
+    },
+    {
+      "id": "u5-247-09-to-go-over-to",
+      "unit": "unit5",
+      "page": 247,
+      "en": "to go over to",
+      "de": "hinübergehen zu; zu jmdm. nach Hause gehen",
+      "context": "Come on, let's go over to your house."
+    },
+    {
+      "id": "u5-247-10-what-on-earth",
+      "unit": "unit5",
+      "page": 247,
+      "en": "What on earth ...?",
+      "de": "Was um alles in der Welt ...?",
+      "context": "What on earth is this?"
+    },
+    {
+      "id": "u5-247-11-pipe",
+      "unit": "unit5",
+      "page": 247,
+      "en": "pipe",
+      "de": "Rohr; Rohrleitung",
+      "context": "He broke a pipe and now there's water everywhere!"
+    },
+    {
+      "id": "u5-247-12-to-fix",
+      "unit": "unit5",
+      "page": 247,
+      "en": "to fix",
+      "de": "reparieren; befestigen",
+      "context": "My bike is broken. Can you fix it?"
+    },
+    {
+      "id": "u5-247-13-to-go-crazy",
+      "unit": "unit5",
+      "page": 247,
+      "en": "to go crazy",
+      "de": "ausflippen; durchdrehen; verrückt werden",
+      "context": "I think I'm going crazy: I don't understand this homework at all!"
+    },
+    {
+      "id": "u5-247-14-to-think-thought-thought",
+      "unit": "unit5",
+      "page": 247,
+      "en": "to think, thought, thought",
+      "de": "denken; nachdenken; glauben",
+      "context": "It took much longer to fix the computer than he thought."
+    },
+    {
+      "id": "u5-247-15-washing-machine",
+      "unit": "unit5",
+      "page": 247,
+      "en": "washing machine",
+      "de": "Waschmaschine",
+      "context": "washing machine → to wash"
+    },
+    {
+      "id": "u5-247-16-to-have-to",
+      "unit": "unit5",
+      "page": 247,
+      "en": "to have to",
+      "de": "müssen",
+      "context": "Our washing machine is broken. We have to fix it."
+    },
+    {
+      "id": "u5-247-17-not-either",
+      "unit": "unit5",
+      "page": 247,
+      "en": "not ... either",
+      "de": "auch nicht",
+      "context": "He doesn't like her. She doesn't like him either."
+    },
+    {
+      "id": "u5-247-18-to-waste",
+      "unit": "unit5",
+      "page": 247,
+      "en": "to waste",
+      "de": "verschwenden",
+      "context": "You're wasting your time, Dad!"
+    },
+    {
+      "id": "u5-247-19-cannot",
+      "unit": "unit5",
+      "page": 247,
+      "en": "cannot",
+      "de": "kann nicht; können nicht; darf nicht; dürfen nicht",
+      "context": "cannot = can't"
+    },
+    {
+      "id": "u5-247-20-step-by-step",
+      "unit": "unit5",
+      "page": 247,
+      "en": "step-by-step",
+      "de": "Schritt-für-Schritt-",
+      "context": "On the internet, there is step-by-step advice for almost everything."
+    },
+    {
+      "id": "u5-247-21-no-such-thing-as",
+      "unit": "unit5",
+      "page": 247,
+      "en": "no such thing as",
+      "de": "nicht so etwas wie",
+      "context": "When I was young there weren't mobiles. There was no such thing as a mobile."
+    },
+    {
+      "id": "u5-247-22-still",
+      "unit": "unit5",
+      "page": 247,
+      "en": "still",
+      "de": "dennoch",
+      "context": "I don't have any money, but I'm still going to go to London."
+    },
+    {
+      "id": "u5-247-23-i-ve-done-this-a-million-times-before",
+      "unit": "unit5",
+      "page": 247,
+      "en": "I've done this a million times before.",
+      "de": "Ich habe das schon eine Million Mal gemacht.",
+      "context": "Don't worry. I've done this a million times before."
+    },
+    {
+      "id": "u5-247-24-to-find-found-found",
+      "unit": "unit5",
+      "page": 247,
+      "en": "to find, found, found",
+      "de": "finden; herausfinden",
+      "context": "Have you found the answers to the questions yet?"
+    },
+    {
+      "id": "u5-248-01-to-give-gave-given",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to give, gave, given",
+      "de": "geben; schenken",
+      "context": "I've given my little brother my old mobile."
+    },
+    {
+      "id": "u5-248-02-to-remove",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to remove",
+      "de": "entfernen",
+      "context": "= to take away"
+    },
+    {
+      "id": "u5-248-03-knob",
+      "unit": "unit5",
+      "page": 248,
+      "en": "knob",
+      "de": "Griff; Knopf",
+      "context": "Cupboard doors often have knobs on them."
+    },
+    {
+      "id": "u5-248-04-to-reach",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to reach",
+      "de": "erreichen; dran kommen",
+      "context": "My mum put the chocolate on top of the cupboard so my little sister can't reach it."
+    },
+    {
+      "id": "u5-248-05-to-work",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to work",
+      "de": "funktionieren",
+      "context": "My dad fixed the washing machine and now it works."
+    },
+    {
+      "id": "u5-248-06-genius",
+      "unit": "unit5",
+      "page": 248,
+      "en": "genius",
+      "de": "Genie",
+      "context": "He knows so many things, he's a genius."
+    },
+    {
+      "id": "u5-248-07-with-a-very-big-head",
+      "unit": "unit5",
+      "page": 248,
+      "en": "With a very big head!",
+      "de": "Und ein Angeber!",
+      "context": "You're a genius with a very big head!"
+    },
+    {
+      "id": "u5-248-08-tutorial",
+      "unit": "unit5",
+      "page": 248,
+      "en": "tutorial",
+      "de": "Tutorium; Tutorial",
+      "context": "I often watch tutorials on the Internet."
+    },
+    {
+      "id": "u5-248-09-flower",
+      "unit": "unit5",
+      "page": 248,
+      "en": "flower",
+      "de": "Blume",
+      "context": ""
+    },
+    {
+      "id": "u5-248-10-to-forget-forgot-forgotten",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to forget, forgot, forgotten",
+      "de": "vergessen",
+      "context": "I have forgotten to buy my Granny a birthday present."
+    },
+    {
+      "id": "u5-248-11-to-get-got-got",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to get, got, got",
+      "de": "holen; bringen; bekommen; werden",
+      "context": "I've got a new mobile. It's black."
+    },
+    {
+      "id": "u5-248-12-to-take-took-taken",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to take, took, taken",
+      "de": "nehmen; mitnehmen; wegnehmen; bringen; mitbringen",
+      "context": "Someone has taken my smartphone out of my bag! Have you seen it?"
+    },
+    {
+      "id": "u5-248-13-password",
+      "unit": "unit5",
+      "page": 248,
+      "en": "password",
+      "de": "Passwort",
+      "context": "Don't write down your password anywhere. Remember it!"
+    },
+    {
+      "id": "u5-248-14-fake",
+      "unit": "unit5",
+      "page": 248,
+      "en": "fake",
+      "de": "falsch; gefälscht",
+      "context": "fake → to fake"
+    },
+    {
+      "id": "u5-248-15-to-contact-sb",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to contact sb",
+      "de": "sich mit jmdm. in Verbindung setzen; jmdn. kontaktieren",
+      "context": "You can contact me on my mobile or send me an email."
+    },
+    {
+      "id": "u5-248-16-digital",
+      "unit": "unit5",
+      "page": 248,
+      "en": "digital",
+      "de": "digital",
+      "context": "Make digital posters for your classroom."
+    },
+    {
+      "id": "u5-248-17-mad",
+      "unit": "unit5",
+      "page": 248,
+      "en": "mad",
+      "de": "verrückt",
+      "context": "My parents think that I'm mad about social media."
+    },
+    {
+      "id": "u5-248-18-result",
+      "unit": "unit5",
+      "page": 248,
+      "en": "result",
+      "de": "Ergebnis; Resultat",
+      "context": "Have we got the test results yet? Who got the most points?"
+    },
+    {
+      "id": "u5-248-19-start",
+      "unit": "unit5",
+      "page": 248,
+      "en": "start",
+      "de": "Anfang; Start",
+      "context": "start → to start"
+    },
+    {
+      "id": "u5-248-20-to-email",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to email",
+      "de": "mailen; per E-Mail schicken",
+      "context": "Could you email me your part of the class project?"
+    },
+    {
+      "id": "u5-248-21-to-download",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to download",
+      "de": "herunterladen (aus dem Internet)",
+      "context": "I often download music and films from the internet."
+    },
+    {
+      "id": "u5-248-22-to-comment-on",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to comment (on)",
+      "de": "kommentieren",
+      "context": "to comment → a comment"
+    },
+    {
+      "id": "u5-248-23-to-stay-away-from",
+      "unit": "unit5",
+      "page": 248,
+      "en": "to stay away from",
+      "de": "fernbleiben von; meiden",
+      "context": "Stay away from too much chocolate. It isn't good for your health."
+    },
+    {
+      "id": "u5-248-24-in-other-ways",
+      "unit": "unit5",
+      "page": 248,
+      "en": "in other ways",
+      "de": "auf andere Weise",
+      "context": "I don't need my phone all the time. I can have fun in other ways too."
+    },
+    {
+      "id": "u5-249-01-to-lose-lost-lost",
+      "unit": "unit5",
+      "page": 249,
+      "en": "to lose, lost, lost",
+      "de": "verlieren",
+      "context": "We have lost our dog and don't know where she is."
+    },
+    {
+      "id": "u5-249-02-close-up",
+      "unit": "unit5",
+      "page": 249,
+      "en": "close-up",
+      "de": "Nahaufnahme",
+      "context": "I took a close-up of my face to show my friend my new make-up."
+    },
+    {
+      "id": "u5-249-03-atmosphere",
+      "unit": "unit5",
+      "page": 249,
+      "en": "atmosphere",
+      "de": "Atmosphäre; Stimmung",
+      "context": "The music in the film helped us to feel the atmosphere."
+    },
+    {
+      "id": "u5-249-04-shot",
+      "unit": "unit5",
+      "page": 249,
+      "en": "shot",
+      "de": "Aufnahme",
+      "context": "You could see the colours well in the close-up shot of the bag."
+    },
+    {
+      "id": "u5-249-05-himself",
+      "unit": "unit5",
+      "page": 249,
+      "en": "himself",
+      "de": "er/sich (selbst); selber",
+      "context": "You mustn't help him. He wants to do everything himself."
+    },
+    {
+      "id": "u5-249-06-to-bully-sb",
+      "unit": "unit5",
+      "page": 249,
+      "en": "to bully (sb)",
+      "de": "(jmdn.) tyrannisieren; (jmdn.) drangsalieren; (jmdn.) mobben",
+      "context": "to bully → cyber bully"
+    },
+    {
+      "id": "u5-249-07-disaster",
+      "unit": "unit5",
+      "page": 249,
+      "en": "disaster",
+      "de": "Desaster; Katastrophe; Unglück",
+      "context": "Frank's day was a disaster."
+    },
+    {
+      "id": "u5-249-08-to-rain",
+      "unit": "unit5",
+      "page": 249,
+      "en": "to rain",
+      "de": "regnen",
+      "context": "It's raining!"
+    },
+    {
+      "id": "u5-250-01-to-be-on",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to be on",
+      "de": "an sein; laufen",
+      "context": "The TV was on all night."
+    },
+    {
+      "id": "u5-250-02-thunder-no-pl",
+      "unit": "unit5",
+      "page": 250,
+      "en": "thunder (no pl)",
+      "de": "Donner",
+      "context": "In a storm there's usually thunder and rain."
+    },
+    {
+      "id": "u5-250-03-lightning-no-pl",
+      "unit": "unit5",
+      "page": 250,
+      "en": "lightning (no pl)",
+      "de": "Blitz",
+      "context": ""
+    },
+    {
+      "id": "u5-250-04-to-get-out-of",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to get out of",
+      "de": "aussteigen; herauskommen aus",
+      "context": "He got out of the car quickly and ran to the house."
+    },
+    {
+      "id": "u5-250-05-nearly",
+      "unit": "unit5",
+      "page": 250,
+      "en": "nearly",
+      "de": "fast; annähernd",
+      "context": "nearly = almost"
+    },
+    {
+      "id": "u5-250-06-upstairs",
+      "unit": "unit5",
+      "page": 250,
+      "en": "upstairs",
+      "de": "nach oben; im Obergeschoss; oben",
+      "context": "The bathroom and the bedrooms are upstairs."
+    },
+    {
+      "id": "u5-250-07-headphones-pl",
+      "unit": "unit5",
+      "page": 250,
+      "en": "headphones (pl)",
+      "de": "Kopfhörer",
+      "context": "Take my headphones and listen to this!"
+    },
+    {
+      "id": "u5-250-08-downstairs",
+      "unit": "unit5",
+      "page": 250,
+      "en": "downstairs",
+      "de": "nach unten; im Untergeschoss; unten",
+      "context": "downstairs ↔ upstairs"
+    },
+    {
+      "id": "u5-250-09-to-tap",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to tap",
+      "de": "antippen",
+      "context": "Jay tapped Olivia's shoulder."
+    },
+    {
+      "id": "u5-250-10-to-cry",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to cry",
+      "de": "schreien; rufen",
+      "context": "to cry = to shout"
+    },
+    {
+      "id": "u5-250-11-to-fight-fought-fought",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to fight, fought, fought",
+      "de": "kämpfen; (sich) streiten",
+      "context": "Let's not fight about it."
+    },
+    {
+      "id": "u5-250-12-to-joke",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to joke",
+      "de": "scherzen",
+      "context": "to joke → a joke"
+    },
+    {
+      "id": "u5-250-13-to-push",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to push",
+      "de": "stoßen; schieben; schubsen",
+      "context": "He pushed me - and I fell over. That wasn't nice!"
+    },
+    {
+      "id": "u5-250-14-to-go-black",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to go black",
+      "de": "schwarz werden",
+      "context": "After the bang everything went black."
+    },
+    {
+      "id": "u5-250-15-to-crash",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to crash",
+      "de": "abstürzen",
+      "context": "Has your computer ever crashed?"
+    },
+    {
+      "id": "u5-250-16-to-calm-down",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to calm down",
+      "de": "sich beruhigen",
+      "context": "Achtung Aussprache: Das „l“ wird nicht gesprochen."
+    },
+    {
+      "id": "u5-250-17-power-cut",
+      "unit": "unit5",
+      "page": 250,
+      "en": "power cut",
+      "de": "Stromausfall",
+      "context": "There was a power cut and the computers crashed."
+    },
+    {
+      "id": "u5-250-18-round",
+      "unit": "unit5",
+      "page": 250,
+      "en": "round",
+      "de": "um ... herum",
+      "context": "Five minutes later they all sat round the table."
+    },
+    {
+      "id": "u5-250-19-candlelight-no-pl",
+      "unit": "unit5",
+      "page": 250,
+      "en": "candlelight (no pl)",
+      "de": "Kerzenlicht",
+      "context": "I want to have a candlelight dinner on my birthday."
+    },
+    {
+      "id": "u5-250-20-right-now",
+      "unit": "unit5",
+      "page": 250,
+      "en": "right now",
+      "de": "im Moment; gleich jetzt; sofort",
+      "context": "Right now I don't have any problems."
+    },
+    {
+      "id": "u5-250-21-to-cook",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to cook",
+      "de": "kochen",
+      "context": "Have you ever cooked an Indian curry?"
+    },
+    {
+      "id": "u5-250-22-to-be-impressed",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to be impressed",
+      "de": "beeindruckt sein",
+      "context": "The friends were impressed with Jay's dancing and singing."
+    },
+    {
+      "id": "u5-250-23-to-show-off",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to show off",
+      "de": "angeben",
+      "context": "My friend always shows off with his clothes."
+    },
+    {
+      "id": "u5-250-24-to-borrow",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to borrow",
+      "de": "(sich) ausleihen",
+      "context": "Can I borrow this T-shirt? - OK, but please remember to give it back."
+    },
+    {
+      "id": "u5-250-25-to-feel-left-out",
+      "unit": "unit5",
+      "page": 250,
+      "en": "to feel left out",
+      "de": "sich ausgeschlossen fühlen",
+      "context": "Did Frank feel left out? - Yes, he did."
+    },
+    {
+      "id": "u5-250-26-record",
+      "unit": "unit5",
+      "page": 250,
+      "en": "record",
+      "de": "Schallplatte",
+      "context": "When I was young, everyone bought records."
+    },
+    {
+      "id": "u5-250-27-back-then",
+      "unit": "unit5",
+      "page": 250,
+      "en": "back then",
+      "de": "damals",
+      "context": "My grandparents didn't have mobiles back then when they were teens."
+    },
+    {
+      "id": "u6-251-01-future",
+      "unit": "unit6",
+      "page": 251,
+      "en": "future",
+      "de": "Zukunft",
+      "context": "We can't see into the future."
+    },
+    {
+      "id": "u6-251-02-will-would",
+      "unit": "unit6",
+      "page": 251,
+      "en": "will, would",
+      "de": "werden",
+      "context": "I will be at your house at 5 o’clock. OK?"
+    },
+    {
+      "id": "u6-251-03-the-southwest",
+      "unit": "unit6",
+      "page": 251,
+      "en": "(the) southwest",
+      "de": "(der) Südwesten; im Südwesten; südwestlich",
+      "context": "southwest → northwest"
+    },
+    {
+      "id": "u6-252-01-medieval",
+      "unit": "unit6",
+      "page": 252,
+      "en": "medieval",
+      "de": "mittelalterlich",
+      "context": "Is every castle medieval? - No, of course not."
+    },
+    {
+      "id": "u6-252-02-living-history-show",
+      "unit": "unit6",
+      "page": 252,
+      "en": "living history show",
+      "de": "Show, in der historischer Alltag nachgespielt wird",
+      "context": "There are some great living history shows in Cornwall."
+    },
+    {
+      "id": "u6-252-03-pony-trekking",
+      "unit": "unit6",
+      "page": 252,
+      "en": "pony trekking",
+      "de": "Ponyreiten im Gelände",
+      "context": "You go pony trekking in the country."
+    },
+    {
+      "id": "u6-252-04-scottish",
+      "unit": "unit6",
+      "page": 252,
+      "en": "Scottish",
+      "de": "schottisch",
+      "context": "Edinburgh is the Scottish capital."
+    },
+    {
+      "id": "u6-252-05-capital",
+      "unit": "unit6",
+      "page": 252,
+      "en": "capital",
+      "de": "Hauptstadt",
+      "context": "London is the capital of England and the United Kingdom."
+    },
+    {
+      "id": "u6-252-06-to-include",
+      "unit": "unit6",
+      "page": 252,
+      "en": "to include",
+      "de": "beinhalten; einschließen",
+      "context": "The trip will be expensive, but the price includes all our meals."
+    },
+    {
+      "id": "u6-252-07-separate",
+      "unit": "unit6",
+      "page": 252,
+      "en": "separate",
+      "de": "separat; getrennt; verschieden",
+      "context": "Wales is a separate country."
+    },
+    {
+      "id": "u6-252-08-to-move-house",
+      "unit": "unit6",
+      "page": 252,
+      "en": "to move (house)",
+      "de": "umziehen",
+      "context": "When you move house, you leave your old home and go to live in a new one."
+    },
+    {
+      "id": "u6-252-09-landscape",
+      "unit": "unit6",
+      "page": 252,
+      "en": "landscape",
+      "de": "Landschaft",
+      "context": "In Scotland and Cornwall the landscape is amazing."
+    },
+    {
+      "id": "u6-252-10-island",
+      "unit": "unit6",
+      "page": 252,
+      "en": "island",
+      "de": "Insel",
+      "context": "The British Isles are a group of islands."
+    },
+    {
+      "id": "u6-252-11-wide",
+      "unit": "unit6",
+      "page": 252,
+      "en": "wide",
+      "de": "breit; weit; ausgedehnt",
+      "context": "This table is too wide, we can't get it through the door."
+    },
+    {
+      "id": "u6-252-12-harbour",
+      "unit": "unit6",
+      "page": 252,
+      "en": "harbour",
+      "de": "Hafen",
+      "context": "The weather is bad, so the boats are staying in the harbour."
+    },
+    {
+      "id": "u6-252-13-sandy",
+      "unit": "unit6",
+      "page": 252,
+      "en": "sandy",
+      "de": "sandig; Sand-",
+      "context": "There are lots of nice sandy beaches in Cornwall."
+    },
+    {
+      "id": "u6-252-14-rocky",
+      "unit": "unit6",
+      "page": 252,
+      "en": "rocky",
+      "de": "felsig; steinig",
+      "context": "Not every beach is sandy. Some are rocky."
+    },
+    {
+      "id": "u6-252-15-deep",
+      "unit": "unit6",
+      "page": 252,
+      "en": "deep",
+      "de": "tief",
+      "context": "You mustn't go into deep water if you can't swim."
+    },
+    {
+      "id": "u6-252-16-palm-tree",
+      "unit": "unit6",
+      "page": 252,
+      "en": "palm tree",
+      "de": "Palme",
+      "context": "There are palm trees in Cornwall."
+    },
+    {
+      "id": "u6-252-17-hiking",
+      "unit": "unit6",
+      "page": 252,
+      "en": "hiking",
+      "de": "Wandern",
+      "context": "Wales is great for hiking."
+    },
+    {
+      "id": "u6-252-18-mountain-biking",
+      "unit": "unit6",
+      "page": 252,
+      "en": "mountain biking",
+      "de": "Mountainbikefahren",
+      "context": "mountain biking → bike"
+    },
+    {
+      "id": "u6-252-19-wind-surfing",
+      "unit": "unit6",
+      "page": 252,
+      "en": "(wind) surfing",
+      "de": "(Wind-)Surfen",
+      "context": "You can learn (wind) surfing on lots of beaches."
+    },
+    {
+      "id": "u6-252-20-background",
+      "unit": "unit6",
+      "page": 252,
+      "en": "background",
+      "de": "Hintergrund",
+      "context": "I can't see you in the photo. - Look, that's me in the background."
+    },
+    {
+      "id": "u6-252-21-to-expect",
+      "unit": "unit6",
+      "page": 252,
+      "en": "to expect",
+      "de": "erwarten",
+      "context": "What you expect is what you think or hope will happen."
+    },
+    {
+      "id": "u6-253-01-nowhere",
+      "unit": "unit6",
+      "page": 253,
+      "en": "nowhere",
+      "de": "nirgendwo; nirgendwohin",
+      "context": "nowhere → somewhere → everywhere"
+    },
+    {
+      "id": "u6-253-02-cornish",
+      "unit": "unit6",
+      "page": 253,
+      "en": "Cornish",
+      "de": "aus/in Cornwall; kornisch; Kornisch",
+      "context": "Cornish → Cornwall"
+    },
+    {
+      "id": "u6-253-03-countryside",
+      "unit": "unit6",
+      "page": 253,
+      "en": "countryside",
+      "de": "Land",
+      "context": "in the countryside = auf dem Land"
+    },
+    {
+      "id": "u6-253-04-to-miss",
+      "unit": "unit6",
+      "page": 253,
+      "en": "to miss",
+      "de": "vermissen",
+      "context": "I miss you. = Du fehlst mir./Ich vermisse dich."
+    },
+    {
+      "id": "u6-253-05-to-stay",
+      "unit": "unit6",
+      "page": 253,
+      "en": "to stay",
+      "de": "untergebracht sein; wohnen",
+      "context": "We stayed in a really nice hotel."
+    },
+    {
+      "id": "u6-253-06-horrible",
+      "unit": "unit6",
+      "page": 253,
+      "en": "horrible",
+      "de": "schrecklich; furchtbar",
+      "context": "horrible ↔ nice"
+    },
+    {
+      "id": "u6-254-01-all-of-us",
+      "unit": "unit6",
+      "page": 254,
+      "en": "all of us",
+      "de": "wir alle",
+      "context": "All of us liked the film. = We all liked the film."
+    },
+    {
+      "id": "u6-254-02-to-wonder",
+      "unit": "unit6",
+      "page": 254,
+      "en": "to wonder",
+      "de": "sich Gedanken machen; sich fragen",
+      "context": "I often wonder why ..."
+    },
+    {
+      "id": "u6-254-03-to-promise",
+      "unit": "unit6",
+      "page": 254,
+      "en": "to promise",
+      "de": "versprechen",
+      "context": "Can his parents promise that Dave will like Cornwall?"
+    },
+    {
+      "id": "u6-254-04-spontaneous",
+      "unit": "unit6",
+      "page": 254,
+      "en": "spontaneous",
+      "de": "spontan",
+      "context": "We didn't plan the party. It was a spontaneous idea."
+    },
+    {
+      "id": "u6-254-05-reaction",
+      "unit": "unit6",
+      "page": 254,
+      "en": "reaction",
+      "de": "Reaktion",
+      "context": "Achtung Schreibung und Aussprache."
+    },
+    {
+      "id": "u6-254-06-promise",
+      "unit": "unit6",
+      "page": 254,
+      "en": "promise",
+      "de": "Versprechen",
+      "context": "I made a promise to my parents to do my best."
+    },
+    {
+      "id": "u6-254-07-prediction",
+      "unit": "unit6",
+      "page": 254,
+      "en": "prediction",
+      "de": "Vorhersage; Voraussage",
+      "context": "If you say what you think the weather will be like, you make a prediction."
+    },
+    {
+      "id": "u6-254-08-travel-agent-s",
+      "unit": "unit6",
+      "page": 254,
+      "en": "travel agent's",
+      "de": "Reisebüro",
+      "context": "You can book your holidays at the travel agent's."
+    },
+    {
+      "id": "u6-254-09-ticket",
+      "unit": "unit6",
+      "page": 254,
+      "en": "ticket",
+      "de": "Fahrschein",
+      "context": "You have to buy a ticket before you get on a train."
+    },
+    {
+      "id": "u6-254-10-to-depend-on",
+      "unit": "unit6",
+      "page": 254,
+      "en": "to depend (on)",
+      "de": "abhängen von",
+      "context": "The price of the ticket depends on the date."
+    },
+    {
+      "id": "u6-254-11-per",
+      "unit": "unit6",
+      "page": 254,
+      "en": "per",
+      "de": "pro",
+      "context": "The price of the tickets is £5 per person."
+    },
+    {
+      "id": "u6-254-12-adult",
+      "unit": "unit6",
+      "page": 254,
+      "en": "adult",
+      "de": "Erwachsene/-r",
+      "context": "adult ↔ child"
+    },
+    {
+      "id": "u6-254-13-to-be-sure",
+      "unit": "unit6",
+      "page": 254,
+      "en": "to be sure",
+      "de": "sicher sein",
+      "context": "I'm sure that this is the right way."
+    },
+    {
+      "id": "u6-254-14-cliff",
+      "unit": "unit6",
+      "page": 254,
+      "en": "cliff",
+      "de": "Klippe; Kliff",
+      "context": "The view from the cliffs is amazing."
+    },
+    {
+      "id": "u6-254-15-tin",
+      "unit": "unit6",
+      "page": 254,
+      "en": "tin",
+      "de": "Zinn",
+      "context": "Lots of tin came from Cornwall."
+    },
+    {
+      "id": "u6-254-16-mine",
+      "unit": "unit6",
+      "page": 254,
+      "en": "mine",
+      "de": "Mine",
+      "context": "There's an old tin mine near Dave's new house."
+    },
+    {
+      "id": "u6-254-17-once",
+      "unit": "unit6",
+      "page": 254,
+      "en": "once",
+      "de": "einmal; einst",
+      "context": "once → one"
+    },
+    {
+      "id": "u6-254-18-to-return",
+      "unit": "unit6",
+      "page": 254,
+      "en": "to return",
+      "de": "zurückkehren; zurückfahren",
+      "context": "to return = to go or come back"
+    },
+    {
+      "id": "u6-254-19-to-fill-in",
+      "unit": "unit6",
+      "page": 254,
+      "en": "to fill in",
+      "de": "ausfüllen",
+      "context": "We had to fill in lots of information about where we live, our names, ..."
+    },
+    {
+      "id": "u6-254-20-form",
+      "unit": "unit6",
+      "page": 254,
+      "en": "form",
+      "de": "Formular",
+      "context": "You often have to fill in forms on the internet."
+    },
+    {
+      "id": "u6-254-21-to-click-on",
+      "unit": "unit6",
+      "page": 254,
+      "en": "to click on",
+      "de": "anklicken",
+      "context": "Click on 'SEND' to send your email."
+    },
+    {
+      "id": "u6-254-22-connection",
+      "unit": "unit6",
+      "page": 254,
+      "en": "connection",
+      "de": "Verbindung",
+      "context": "What connections are there from Greenwich to St Agnes today?"
+    },
+    {
+      "id": "u6-254-23-detail",
+      "unit": "unit6",
+      "page": 254,
+      "en": "detail",
+      "de": "Detail; Einzelheit",
+      "context": "There were so many details to fill in on the form."
+    },
+    {
+      "id": "u6-254-24-one-way-ticket",
+      "unit": "unit6",
+      "page": 254,
+      "en": "one-way ticket",
+      "de": "einfache Fahrkarte",
+      "context": "We only need a one-way ticket. My dad will take us home."
+    },
+    {
+      "id": "u6-254-25-single-ticket",
+      "unit": "unit6",
+      "page": 254,
+      "en": "single ticket",
+      "de": "einfache Fahrkarte",
+      "context": "single ticket = one-way ticket"
+    },
+    {
+      "id": "u6-254-26-return-ticket",
+      "unit": "unit6",
+      "page": 254,
+      "en": "return ticket",
+      "de": "Hin- und Rückfahrkarte",
+      "context": "return ticket ↔ one-way ticket"
+    },
+    {
+      "id": "u6-254-27-fee",
+      "unit": "unit6",
+      "page": 254,
+      "en": "fee",
+      "de": "Gebühr",
+      "context": "Is there an extra fee for the ticket?"
+    },
+    {
+      "id": "u6-254-28-to-depart",
+      "unit": "unit6",
+      "page": 254,
+      "en": "to depart",
+      "de": "abfahren",
+      "context": "When does the train depart?"
+    },
+    {
+      "id": "u6-254-29-outward",
+      "unit": "unit6",
+      "page": 254,
+      "en": "outward",
+      "de": "abfahrend",
+      "context": "Outward trains leave the station."
+    },
+    {
+      "id": "u6-254-30-inward",
+      "unit": "unit6",
+      "page": 254,
+      "en": "inward",
+      "de": "ankommend",
+      "context": "Inward trains arrive at the station."
+    },
+    {
+      "id": "u6-255-01-fare",
+      "unit": "unit6",
+      "page": 255,
+      "en": "fare",
+      "de": "Fahrpreis",
+      "context": "Is there a special fare for groups?"
+    },
+    {
+      "id": "u6-255-02-platform",
+      "unit": "unit6",
+      "page": 255,
+      "en": "platform",
+      "de": "Plattform; Bahnsteig",
+      "context": "Which platform does the train leave from?"
+    },
+    {
+      "id": "u6-255-03-starting-place",
+      "unit": "unit6",
+      "page": 255,
+      "en": "starting place",
+      "de": "Startpunkt",
+      "context": "With a return ticket you can go back to your starting place."
+    },
+    {
+      "id": "u6-255-04-hometown",
+      "unit": "unit6",
+      "page": 255,
+      "en": "hometown",
+      "de": "Heimatstadt",
+      "context": "hometown → home"
+    },
+    {
+      "id": "u6-255-05-weather-forecast",
+      "unit": "unit6",
+      "page": 255,
+      "en": "weather forecast",
+      "de": "Wettervorhersage",
+      "context": "It tells you what the weather will be like."
+    },
+    {
+      "id": "u6-255-06-to-pick-up",
+      "unit": "unit6",
+      "page": 255,
+      "en": "to pick up",
+      "de": "abholen; mitnehmen; aufheben",
+      "context": "We will pick you up at Redruth station."
+    },
+    {
+      "id": "u6-256-01-to-carry",
+      "unit": "unit6",
+      "page": 256,
+      "en": "to carry",
+      "de": "tragen",
+      "context": "Can you carry this box for me, please?"
+    },
+    {
+      "id": "u6-256-02-kind",
+      "unit": "unit6",
+      "page": 256,
+      "en": "kind",
+      "de": "nett; freundlich",
+      "context": "Thank you! That's very kind of you."
+    },
+    {
+      "id": "u6-256-03-in-case",
+      "unit": "unit6",
+      "page": 256,
+      "en": "in case",
+      "de": "falls; für den Fall, dass ...",
+      "context": "I'll call you in case we are late."
+    },
+    {
+      "id": "u6-256-04-delay",
+      "unit": "unit6",
+      "page": 256,
+      "en": "delay",
+      "de": "Verspätung; Verzögerung",
+      "context": "The train will be half an hour late. We're sorry for the delay."
+    },
+    {
+      "id": "u6-256-05-kid",
+      "unit": "unit6",
+      "page": 256,
+      "en": "kid",
+      "de": "Jugendliche/-r; Kind",
+      "context": "kid = child"
+    },
+    {
+      "id": "u6-256-06-raincoat",
+      "unit": "unit6",
+      "page": 256,
+      "en": "raincoat",
+      "de": "Regenmantel",
+      "context": "It's raining! Where's my raincoat?"
+    },
+    {
+      "id": "u6-256-07-to-look-forward-to",
+      "unit": "unit6",
+      "page": 256,
+      "en": "to look forward to",
+      "de": "sich freuen auf",
+      "context": "I'm looking forward to my grandma's visit next week."
+    },
+    {
+      "id": "u6-256-08-to-illustrate",
+      "unit": "unit6",
+      "page": 256,
+      "en": "to illustrate",
+      "de": "illustrieren; veranschaulichen; darstellen",
+      "context": "The pictures illustrated the text very well."
+    },
+    {
+      "id": "u6-256-09-content",
+      "unit": "unit6",
+      "page": 256,
+      "en": "content",
+      "de": "Inhalt",
+      "context": "= the information or ideas e.g. in a book, film, photo, etc."
+    },
+    {
+      "id": "u6-256-10-to-allow",
+      "unit": "unit6",
+      "page": 256,
+      "en": "to allow",
+      "de": "erlauben; gestatten",
+      "context": "My parents didn't allow me to go to the party."
+    },
+    {
+      "id": "u6-256-11-term",
+      "unit": "unit6",
+      "page": 256,
+      "en": "term",
+      "de": "Begriff",
+      "context": "I don't understand some of the terms in the text. What do they mean?"
+    },
+    {
+      "id": "u6-256-12-to-type",
+      "unit": "unit6",
+      "page": 256,
+      "en": "to type",
+      "de": "tippen",
+      "context": "Type your text on the computer."
+    },
+    {
+      "id": "u6-256-13-source",
+      "unit": "unit6",
+      "page": 256,
+      "en": "source",
+      "de": "Quelle",
+      "context": "Please write a list of all your sources at the end of the text."
+    },
+    {
+      "id": "u6-256-14-photographer",
+      "unit": "unit6",
+      "page": 256,
+      "en": "photographer",
+      "de": "Fotograf/-in",
+      "context": "Achtung Schreibung und Aussprache."
+    },
+    {
+      "id": "u6-256-15-region",
+      "unit": "unit6",
+      "page": 256,
+      "en": "region",
+      "de": "Region; Gegend",
+      "context": "What region in Germany do you come from?"
+    },
+    {
+      "id": "u6-256-16-coastline",
+      "unit": "unit6",
+      "page": 256,
+      "en": "coastline",
+      "de": "Küste; Küstenverlauf",
+      "context": "Cornwall's coastline is almost 300 miles long."
+    },
+    {
+      "id": "u6-256-17-sun",
+      "unit": "unit6",
+      "page": 256,
+      "en": "sun",
+      "de": "Sonne",
+      "context": ""
+    },
+    {
+      "id": "u6-256-18-fishing",
+      "unit": "unit6",
+      "page": 256,
+      "en": "fishing",
+      "de": "Angeln; Fischen; Fischerei",
+      "context": "fishing → a fish"
+    },
+    {
+      "id": "u6-256-19-might",
+      "unit": "unit6",
+      "page": 256,
+      "en": "might",
+      "de": "könnte/-n (vielleicht)",
+      "context": "You're into sports? Then a holiday in Cornwall might be the right thing for you."
+    },
+    {
+      "id": "u6-256-20-plant",
+      "unit": "unit6",
+      "page": 256,
+      "en": "plant",
+      "de": "Pflanze",
+      "context": "A tree is a plant."
+    },
+    {
+      "id": "u6-256-21-environment",
+      "unit": "unit6",
+      "page": 256,
+      "en": "environment",
+      "de": "Umwelt; Umgebung",
+      "context": "Our environment is the world (or area) we live in."
+    },
+    {
+      "id": "u6-256-22-attraction",
+      "unit": "unit6",
+      "page": 256,
+      "en": "attraction",
+      "de": "Attraktion; Sehenswürdigkeit",
+      "context": "The London Eye is one of the city's most popular attractions."
+    },
+    {
+      "id": "u6-256-23-wild",
+      "unit": "unit6",
+      "page": 256,
+      "en": "wild",
+      "de": "wild",
+      "context": "pets - farm animals - wild animals"
+    },
+    {
+      "id": "u6-256-24-prehistoric",
+      "unit": "unit6",
+      "page": 256,
+      "en": "prehistoric",
+      "de": "vorgeschichtlich",
+      "context": "Dinosaurs are prehistoric animals."
+    },
+    {
+      "id": "u6-256-25-monument",
+      "unit": "unit6",
+      "page": 256,
+      "en": "monument",
+      "de": "Monument; Denkmal",
+      "context": "In Cornwall you can visit lots of prehistoric monuments."
+    },
+    {
+      "id": "u6-256-26-celtic",
+      "unit": "unit6",
+      "page": 256,
+      "en": "Celtic",
+      "de": "keltisch",
+      "context": "You can learn a lot about Cornwall's Celtic past in the museums there."
+    },
+    {
+      "id": "u6-256-27-mining",
+      "unit": "unit6",
+      "page": 256,
+      "en": "mining",
+      "de": "Bergbau",
+      "context": "Cornwall has a long mining history."
+    },
+    {
+      "id": "u6-256-28-bronze-age",
+      "unit": "unit6",
+      "page": 256,
+      "en": "Bronze Age",
+      "de": "Bronzezeit (ca. 2200-800 v. Chr.)",
+      "context": "The Bronze Age was a very long time ago."
+    },
+    {
+      "id": "u6-257-01-cross",
+      "unit": "unit6",
+      "page": 257,
+      "en": "cross",
+      "de": "Kreuz",
+      "context": "You can always see crosses in churches."
+    },
+    {
+      "id": "u6-257-02-irish",
+      "unit": "unit6",
+      "page": 257,
+      "en": "Irish",
+      "de": "irisch; Irisch",
+      "context": "There are lots of nice Irish songs."
+    },
+    {
+      "id": "u6-257-03-gaelic",
+      "unit": "unit6",
+      "page": 257,
+      "en": "Gaelic",
+      "de": "gälisch; Gälisch",
+      "context": "Gaelic is a Celtic language."
+    },
+    {
+      "id": "u6-257-04-besides",
+      "unit": "unit6",
+      "page": 257,
+      "en": "besides",
+      "de": "neben",
+      "context": "Do you speak any languages besides German?"
+    },
+    {
+      "id": "u6-257-05-pasty",
+      "unit": "unit6",
+      "page": 257,
+      "en": "pasty",
+      "de": "Fleischpastete",
+      "context": "A pasty is something you can eat in Cornwall."
+    },
+    {
+      "id": "u6-257-06-cream-tea",
+      "unit": "unit6",
+      "page": 257,
+      "en": "cream tea",
+      "de": "Cream Tea (südwestenglische Spezialität: Tee mit süßen Brötchen, die mit stichfestem Rahm und Marmelade serviert werden)",
+      "context": "People think a cream tea is a cup of tea with cream in it - It isn’t!"
+    },
+    {
+      "id": "u6-257-07-scone",
+      "unit": "unit6",
+      "page": 257,
+      "en": "scone",
+      "de": "Scone (eine Art süßes Brötchen)",
+      "context": "Scones are very easy to make."
+    },
+    {
+      "id": "u6-257-08-clotted-cream",
+      "unit": "unit6",
+      "page": 257,
+      "en": "clotted cream",
+      "de": "stichfester Rahm",
+      "context": "You have to try clotted cream. It's delicious with scones!"
+    },
+    {
+      "id": "u6-257-09-jam",
+      "unit": "unit6",
+      "page": 257,
+      "en": "jam",
+      "de": "Marmelade; Konfitüre",
+      "context": "I love sandwiches with butter and jam."
+    },
+    {
+      "id": "u6-257-10-tourism",
+      "unit": "unit6",
+      "page": 257,
+      "en": "tourism",
+      "de": "Tourismus",
+      "context": "tourism → tour → tourist"
+    },
+    {
+      "id": "u6-257-11-local",
+      "unit": "unit6",
+      "page": 257,
+      "en": "local",
+      "de": "örtlich; lokal",
+      "context": "The schools in your area are your local schools."
+    },
+    {
+      "id": "u6-257-12-dialect",
+      "unit": "unit6",
+      "page": 257,
+      "en": "dialect",
+      "de": "Dialekt",
+      "context": "Do people have a dialect where you live?"
+    },
+    {
+      "id": "u6-257-13-accent",
+      "unit": "unit6",
+      "page": 257,
+      "en": "accent",
+      "de": "Akzent",
+      "context": "My granny has a strong German accent when she speaks English."
+    },
+    {
+      "id": "u6-257-14-possibility",
+      "unit": "unit6",
+      "page": 257,
+      "en": "possibility",
+      "de": "Möglichkeit",
+      "context": "possibility → possible"
+    },
+    {
+      "id": "u6-257-15-chaotic",
+      "unit": "unit6",
+      "page": 257,
+      "en": "chaotic",
+      "de": "chaotisch",
+      "context": "Our holiday was chaotic - the train was late and the food was horrible. But the weather was nice."
+    },
+    {
+      "id": "u6-257-16-shelf-shelves-pl",
+      "unit": "unit6",
+      "page": 257,
+      "en": "shelf, shelves (pl)",
+      "de": "Regal; Regalbrett",
+      "context": "The books are on the shelf."
+    },
+    {
+      "id": "u6-257-17-above",
+      "unit": "unit6",
+      "page": 257,
+      "en": "above",
+      "de": "über; oberhalb (von); oben",
+      "context": "The shelf is above the bed."
+    },
+    {
+      "id": "u6-257-18-screwdriver",
+      "unit": "unit6",
+      "page": 257,
+      "en": "screwdriver",
+      "de": "Schraubenzieher",
+      "context": "We can put up the shelves quicker with a screwdriver."
+    },
+    {
+      "id": "u6-257-19-curtain",
+      "unit": "unit6",
+      "page": 257,
+      "en": "curtain",
+      "de": "Vorhang",
+      "context": "I bought these new curtains yesterday. Do you like them?"
+    },
+    {
+      "id": "u6-257-20-to-turn-on",
+      "unit": "unit6",
+      "page": 257,
+      "en": "to turn on",
+      "de": "einschalten",
+      "context": "Close the curtains and turn on the light."
+    },
+    {
+      "id": "u6-257-21-ready",
+      "unit": "unit6",
+      "page": 257,
+      "en": "ready",
+      "de": "fertig; bereit",
+      "context": "I'm ready. Let's go."
+    },
+    {
+      "id": "u6-257-22-walking-boot",
+      "unit": "unit6",
+      "page": 257,
+      "en": "walking boot",
+      "de": "Wanderschuh",
+      "context": "Did you pack your walking boots? We want to go hiking."
+    },
+    {
+      "id": "u6-257-23-coastal-path",
+      "unit": "unit6",
+      "page": 257,
+      "en": "coastal path",
+      "de": "Küstenweg",
+      "context": "We walked to the next town along the coastal path."
+    },
+    {
+      "id": "u6-257-24-swimming-things-pl-only",
+      "unit": "unit6",
+      "page": 257,
+      "en": "swimming things (pl only)",
+      "de": "Schwimmsachen",
+      "context": "I forgot my swimming things so we couldn't go swimming."
+    },
+    {
+      "id": "u6-257-25-wetsuit",
+      "unit": "unit6",
+      "page": 257,
+      "en": "wetsuit",
+      "de": "Neoprenanzug",
+      "context": "Wear a wetsuit when you go surfing."
+    },
+    {
+      "id": "u6-257-26-heavy",
+      "unit": "unit6",
+      "page": 257,
+      "en": "heavy",
+      "de": "schwer; stark",
+      "context": "I can't carry this box - it's too heavy."
+    },
+    {
+      "id": "u6-257-27-to-drive-drove-driven",
+      "unit": "unit6",
+      "page": 257,
+      "en": "to drive, drove, driven",
+      "de": "fahren",
+      "context": "We drove to Cornwall in our holidays and my friend drove to Scotland."
+    },
+    {
+      "id": "u6-257-28-wife-wives-pl",
+      "unit": "unit6",
+      "page": 257,
+      "en": "wife, wives (pl)",
+      "de": "Ehefrau",
+      "context": "Mrs Preston is Mr Preston's wife."
+    },
+    {
+      "id": "u6-258-01-cave",
+      "unit": "unit6",
+      "page": 258,
+      "en": "cave",
+      "de": "Höhle",
+      "context": ""
+    },
+    {
+      "id": "u6-258-02-to-feed-fed-fed",
+      "unit": "unit6",
+      "page": 258,
+      "en": "to feed, fed, fed",
+      "de": "füttern; ernähren",
+      "context": "We fed the animals on the farm every evening."
+    },
+    {
+      "id": "u6-258-03-to-milk",
+      "unit": "unit6",
+      "page": 258,
+      "en": "to milk",
+      "de": "melken",
+      "context": "The farmer milks his cows in the morning and in the evening."
+    },
+    {
+      "id": "u6-258-04-love",
+      "unit": "unit6",
+      "page": 258,
+      "en": "love",
+      "de": "Liebe",
+      "context": "love → to love"
+    },
+    {
+      "id": "u6-258-05-suspense",
+      "unit": "unit6",
+      "page": 258,
+      "en": "suspense",
+      "de": "Spannung",
+      "context": "The suspense in the story was really exciting."
+    },
+    {
+      "id": "u6-258-06-element",
+      "unit": "unit6",
+      "page": 258,
+      "en": "element",
+      "de": "Element",
+      "context": "Achtung Aussprache."
+    },
+    {
+      "id": "u6-258-07-grandpa",
+      "unit": "unit6",
+      "page": 258,
+      "en": "grandpa",
+      "de": "Opa; Opi",
+      "context": "grandma + grandpa = grandparents"
+    },
+    {
+      "id": "u6-258-08-to-get-lost",
+      "unit": "unit6",
+      "page": 258,
+      "en": "to get lost",
+      "de": "verloren gehen; sich verirren",
+      "context": "It's easy to get lost in a big city."
+    },
+    {
+      "id": "u6-258-09-acting",
+      "unit": "unit6",
+      "page": 258,
+      "en": "acting",
+      "de": "Schauspielen",
+      "context": "acting → to act"
+    },
+    {
+      "id": "u6-258-10-darkness",
+      "unit": "unit6",
+      "page": 258,
+      "en": "darkness",
+      "de": "Dunkelheit",
+      "context": "darkness → dark"
+    },
+    {
+      "id": "u6-258-11-sequel",
+      "unit": "unit6",
+      "page": 258,
+      "en": "sequel",
+      "de": "Fortsetzung; Folge",
+      "context": "Have you seen the sequel to that film? It's really boring."
+    },
+    {
+      "id": "u6-258-12-search-engine",
+      "unit": "unit6",
+      "page": 258,
+      "en": "search engine",
+      "de": "Suchmaschine",
+      "context": "Search engines are useful for looking for things on the internet."
+    },
+    {
+      "id": "u6-258-13-to-filter",
+      "unit": "unit6",
+      "page": 258,
+      "en": "to filter",
+      "de": "filtern",
+      "context": "You find things better if you filter what you are looking for."
+    },
+    {
+      "id": "u6-258-14-rating",
+      "unit": "unit6",
+      "page": 258,
+      "en": "rating",
+      "de": "Bewertung; Rating",
+      "context": "I always look at the ratings before I book a hotel."
+    },
+    {
+      "id": "u6-258-15-user",
+      "unit": "unit6",
+      "page": 258,
+      "en": "user",
+      "de": "Benutzer/-in",
+      "context": "A user has a special password for a game or programme."
+    },
+    {
+      "id": "u6-258-16-reviewer",
+      "unit": "unit6",
+      "page": 258,
+      "en": "reviewer",
+      "de": "Kritiker/-in",
+      "context": "reviewer → review"
+    },
+    {
+      "id": "u6-258-17-factual",
+      "unit": "unit6",
+      "page": 258,
+      "en": "factual",
+      "de": "sachlich",
+      "context": "factual → fact"
+    },
+    {
+      "id": "u6-258-18-to-rate",
+      "unit": "unit6",
+      "page": 258,
+      "en": "to rate",
+      "de": "bewerten; einstufen",
+      "context": "to rate → rating"
+    },
+    {
+      "id": "u6-258-19-encyclopedia",
+      "unit": "unit6",
+      "page": 258,
+      "en": "encyclopedia",
+      "de": "Lexikon",
+      "context": "You can find lots of information in an encyclopedia."
+    },
+    {
+      "id": "u6-258-20-chips-pl",
+      "unit": "unit6",
+      "page": 258,
+      "en": "chips (pl)",
+      "de": "Pommes frites",
+      "context": "crisps = (Kartoffel)Chips; chips = Pommes frites"
+    },
+    {
+      "id": "u6-258-21-to-appear",
+      "unit": "unit6",
+      "page": 258,
+      "en": "to appear",
+      "de": "erscheinen; auftauchen",
+      "context": "to appear = to be there suddenly"
+    },
+    {
+      "id": "u6-258-22-opening-times",
+      "unit": "unit6",
+      "page": 258,
+      "en": "opening times",
+      "de": "Öffnungszeiten",
+      "context": "Did you look at the opening times of the museum?"
+    },
+    {
+      "id": "u6-258-23-guide-book",
+      "unit": "unit6",
+      "page": 258,
+      "en": "guide book",
+      "de": "Reiseführer",
+      "context": "In a guide book you can find all the important sights in a city."
+    },
+    {
+      "id": "u6-258-24-polar-bear",
+      "unit": "unit6",
+      "page": 258,
+      "en": "polar bear",
+      "de": "Eisbär",
+      "context": ""
+    },
+    {
+      "id": "u6-259-01-parrot",
+      "unit": "unit6",
+      "page": 259,
+      "en": "parrot",
+      "de": "Papagei",
+      "context": "Parrots are very colourful birds."
+    },
+    {
+      "id": "u6-259-02-two-of-which",
+      "unit": "unit6",
+      "page": 259,
+      "en": "two of which",
+      "de": "zwei davon",
+      "context": "There are three answers, two of which are right."
+    },
+    {
+      "id": "u6-259-03-hall",
+      "unit": "unit6",
+      "page": 259,
+      "en": "hall",
+      "de": "Flur; Diele; Korridor",
+      "context": "Leave your bags in the hall and come to the kitchen for lunch."
+    },
+    {
+      "id": "u6-259-04-electricity",
+      "unit": "unit6",
+      "page": 259,
+      "en": "electricity",
+      "de": "Elektrizität; Strom",
+      "context": "If there's no electricity you can't make tea."
+    },
+    {
+      "id": "u6-259-05-remember",
+      "unit": "unit6",
+      "page": 259,
+      "en": "Remember?",
+      "de": "Erinnerst du dich?; Erinnert ihr euch?",
+      "context": "Remember the great holiday we had in Wales?"
+    },
+    {
+      "id": "u6-259-06-what-s-the-matter",
+      "unit": "unit6",
+      "page": 259,
+      "en": "What's the matter?",
+      "de": "Was ist los?; Was hast du?",
+      "context": "Why are you crying? What's the matter?"
+    },
+    {
+      "id": "u6-259-07-oh-dear",
+      "unit": "unit6",
+      "page": 259,
+      "en": "Oh dear!",
+      "de": "Oje!",
+      "context": "I've hurt my leg. - Oh dear!"
+    },
+    {
+      "id": "u6-259-08-to-go-out",
+      "unit": "unit6",
+      "page": 259,
+      "en": "to go out",
+      "de": "ausgehen; hinausgehen",
+      "context": "Let's go out!"
+    },
+    {
+      "id": "u6-259-09-plumber",
+      "unit": "unit6",
+      "page": 259,
+      "en": "plumber",
+      "de": "Installateur/-in; Klempner/-in",
+      "context": "A plumber can fix your water pipes."
+    },
+    {
+      "id": "u6-259-10-to-stand-stood-stood",
+      "unit": "unit6",
+      "page": 259,
+      "en": "to stand, stood, stood",
+      "de": "stehen",
+      "context": "We stood outside for ten minutes until the shop opened."
+    },
+    {
+      "id": "u6-259-11-by",
+      "unit": "unit6",
+      "page": 259,
+      "en": "by",
+      "de": "bei; neben; an",
+      "context": "by = next to"
+    },
+    {
+      "id": "u6-259-12-tall",
+      "unit": "unit6",
+      "page": 259,
+      "en": "tall",
+      "de": "groß; hoch",
+      "context": "Olivia is taller than Lucy."
+    },
+    {
+      "id": "u6-259-13-chimney",
+      "unit": "unit6",
+      "page": 259,
+      "en": "chimney",
+      "de": "Kamin; Schornstein",
+      "context": "Our house has got three red chimneys."
+    },
+    {
+      "id": "u6-259-14-roof",
+      "unit": "unit6",
+      "page": 259,
+      "en": "roof",
+      "de": "Dach",
+      "context": "a roof with a chimney"
+    },
+    {
+      "id": "u6-259-15-strong",
+      "unit": "unit6",
+      "page": 259,
+      "en": "strong",
+      "de": "stark",
+      "context": "There was a strong wind on the beach."
+    },
+    {
+      "id": "u6-259-16-to-go-right-back-to",
+      "unit": "unit6",
+      "page": 259,
+      "en": "to go right back to",
+      "de": "zurückgehen auf",
+      "context": "Cornwall's mining history goes right back to Celtic times."
+    },
+    {
+      "id": "u6-259-17-to-boom",
+      "unit": "unit6",
+      "page": 259,
+      "en": "to boom",
+      "de": "dröhnen",
+      "context": "A loud and deep voice booms."
+    },
+    {
+      "id": "u6-259-18-to-keep-away-from",
+      "unit": "unit6",
+      "page": 259,
+      "en": "to keep away from",
+      "de": "(sich) fernhalten von",
+      "context": "Keep away from my chocolate!"
+    },
+    {
+      "id": "u6-259-19-to-turn-around",
+      "unit": "unit6",
+      "page": 259,
+      "en": "to turn around",
+      "de": "(sich) umdrehen; wenden",
+      "context": "When they heard a voice behind them, they turned around."
+    },
+    {
+      "id": "u6-259-20-spear",
+      "unit": "unit6",
+      "page": 259,
+      "en": "spear",
+      "de": "Speer",
+      "context": "The spear is broken."
+    },
+    {
+      "id": "u6-259-21-to-steal-stole-stolen",
+      "unit": "unit6",
+      "page": 259,
+      "en": "to steal, stole, stolen",
+      "de": "stehlen",
+      "context": "Someone stole my mobile when I was in London."
+    },
+    {
+      "id": "u6-259-22-yours",
+      "unit": "unit6",
+      "page": 259,
+      "en": "yours",
+      "de": "dein/-er/-e/-es; eure/-r/-s; Ihr/-e",
+      "context": "yours ↔ mine"
+    },
+    {
+      "id": "u6-260-01-to-move-in-into",
+      "unit": "unit6",
+      "page": 260,
+      "en": "to move in/into",
+      "de": "einziehen in",
+      "context": "Dave and his parents moved into a new house in Cornwall."
+    },
+    {
+      "id": "u6-260-02-warrior",
+      "unit": "unit6",
+      "page": 260,
+      "en": "warrior",
+      "de": "Krieger",
+      "context": "Are you a Celtic warrior? - No, I’m going to a fancy dress party."
+    },
+    {
+      "id": "u6-260-03-society",
+      "unit": "unit6",
+      "page": 260,
+      "en": "society",
+      "de": "Verein; Gesellschaft",
+      "context": "Bob is a member of a local history society."
+    },
+    {
+      "id": "u6-260-04-twin",
+      "unit": "unit6",
+      "page": 260,
+      "en": "twin",
+      "de": "Zwilling; Zwillings-",
+      "context": "My sister and I are twins. We are 15 and our birthday is on the same day."
+    },
+    {
+      "id": "u6-260-05-tool",
+      "unit": "unit6",
+      "page": 260,
+      "en": "tool",
+      "de": "Werkzeug; Gerät",
+      "context": "A plumber needs special tools."
+    },
+    {
+      "id": "u6-260-06-electrician",
+      "unit": "unit6",
+      "page": 260,
+      "en": "electrician",
+      "de": "Elektriker/-in",
+      "context": "electrician → electricity"
+    },
+    {
+      "id": "u6-260-07-plumbing",
+      "unit": "unit6",
+      "page": 260,
+      "en": "plumbing",
+      "de": "Sanitärarbeiten",
+      "context": "plumbing → plumber"
+    },
+    {
+      "id": "u6-260-08-electrics",
+      "unit": "unit6",
+      "page": 260,
+      "en": "electrics",
+      "de": "Elektrik",
+      "context": "An electrician can fix the electrics in your house."
+    },
+    {
+      "id": "u6-260-09-change",
+      "unit": "unit6",
+      "page": 260,
+      "en": "change",
+      "de": "Änderung; Veränderung; Wechsel",
+      "context": "change → to change"
+    },
+    {
+      "id": "u6-260-10-to-turn-to",
+      "unit": "unit6",
+      "page": 260,
+      "en": "to turn to",
+      "de": "sich wenden an; sich zuwenden",
+      "context": "I turned to him to say something but he wasn’t there any more."
+    },
+    {
+      "id": "u6-260-11-diary-entry",
+      "unit": "unit6",
+      "page": 260,
+      "en": "diary entry",
+      "de": "Tagebucheintrag",
+      "context": "A diary entry is a personal text about your thoughts and feelings and about what happened to you."
+    },
+    {
+      "id": "u6-260-12-nobody-else",
+      "unit": "unit6",
+      "page": 260,
+      "en": "nobody else",
+      "de": "niemand anderes",
+      "context": "Only you and nobody else should read your diary entries."
+    },
+    {
+      "id": "u6-260-13-postcard",
+      "unit": "unit6",
+      "page": 260,
+      "en": "postcard",
+      "de": "Postkarte",
+      "context": "I love it when I get a real postcard and not just photos in an email!"
+    },
+    {
+      "id": "u6-260-14-sailing-boat",
+      "unit": "unit6",
+      "page": 260,
+      "en": "sailing boat",
+      "de": "Segelboot",
+      "context": ""
+    },
+    {
+      "id": "u6-260-15-to-camp",
+      "unit": "unit6",
+      "page": 260,
+      "en": "to camp",
+      "de": "campen; zelten",
+      "context": "to camp → camping"
+    },
+    {
+      "id": "u6-260-16-see-you-soon",
+      "unit": "unit6",
+      "page": 260,
+      "en": "See you soon!",
+      "de": "Bis bald!",
+      "context": "Bye. See you soon!"
     }
   ]
 }
