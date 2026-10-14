@@ -4,5 +4,11 @@
     "title": "Green Line 2",
     "subtitle": "6. Klasse",
     "file": "./data/green-line-2.json"
+  },
+  {
+    "id": "adv-lghthse-1",
+    "title": "Advanced Lighthouse 1",
+    "subtitle": "5. Klasse",
+    "file": "./data/adv-lghthse-1.json"
   }
 ]
