@@ -1,0 +1,1861 @@
+{
+  "id": "bumblebee-workbook-3",
+  "title": "Bumblebee Workbook 3",
+  "subtitle": "3. Klasse",
+  "pageRange": {
+    "min": 51,
+    "max": 55
+  },
+  "units": [
+    {
+      "id": "colours",
+      "title": "Colours – Farben",
+      "pages": [
+        51,
+        51
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Numbers – Zahlen",
+      "pages": [
+        51,
+        51
+      ]
+    },
+    {
+      "id": "feelings",
+      "title": "Feelings – Gefühle",
+      "pages": [
+        51,
+        52
+      ]
+    },
+    {
+      "id": "school-things",
+      "title": "School things – Schulsachen",
+      "pages": [
+        51,
+        51
+      ]
+    },
+    {
+      "id": "rooms-and-furniture",
+      "title": "Rooms and furniture – Räume und Möbel",
+      "pages": [
+        52,
+        52
+      ]
+    },
+    {
+      "id": "family",
+      "title": "Family – Familie",
+      "pages": [
+        52,
+        52
+      ]
+    },
+    {
+      "id": "prepositions",
+      "title": "Where is it? – Ortsangaben",
+      "pages": [
+        52,
+        52
+      ]
+    },
+    {
+      "id": "days-of-the-week",
+      "title": "Days of the week – Wochentage",
+      "pages": [
+        52,
+        52
+      ]
+    },
+    {
+      "id": "hobbies",
+      "title": "Hobbies – Hobbys",
+      "pages": [
+        53,
+        53
+      ]
+    },
+    {
+      "id": "pets",
+      "title": "Pets – Haustiere",
+      "pages": [
+        53,
+        53
+      ]
+    },
+    {
+      "id": "pet-body-parts",
+      "title": "Pets – Körperteile",
+      "pages": [
+        53,
+        53
+      ]
+    },
+    {
+      "id": "pet-food",
+      "title": "Pet food – Tierfutter",
+      "pages": [
+        53,
+        53
+      ]
+    },
+    {
+      "id": "clothes",
+      "title": "Clothes – Kleidung",
+      "pages": [
+        54,
+        54
+      ]
+    },
+    {
+      "id": "food",
+      "title": "Food – Essen",
+      "pages": [
+        54,
+        54
+      ]
+    },
+    {
+      "id": "fruit-and-ice-cream",
+      "title": "Fruit and ice cream – Obst und Eis",
+      "pages": [
+        54,
+        54
+      ]
+    },
+    {
+      "id": "media-and-technology",
+      "title": "Media and technology – Medien",
+      "pages": [
+        54,
+        54
+      ]
+    },
+    {
+      "id": "money",
+      "title": "Money – Geld",
+      "pages": [
+        54,
+        54
+      ]
+    },
+    {
+      "id": "sights-and-transport",
+      "title": "London – Sehenswürdigkeiten und Verkehr",
+      "pages": [
+        55,
+        55
+      ]
+    },
+    {
+      "id": "activities",
+      "title": "Activities – Aktivitäten",
+      "pages": [
+        55,
+        55
+      ]
+    },
+    {
+      "id": "seasons-and-weather",
+      "title": "Seasons and weather – Jahreszeiten und Wetter",
+      "pages": [
+        55,
+        55
+      ]
+    },
+    {
+      "id": "special-days",
+      "title": "Birthdays – Geburtstag",
+      "pages": [
+        55,
+        55
+      ]
+    },
+    {
+      "id": "Halloween",
+      "title": "Halloween",
+      "pages": [
+        55,
+        55
+      ]
+    },
+    {
+      "id": "Christmas",
+      "title": "Christmas – Weihnachten",
+      "pages": [
+        55,
+        55
+      ]
+    },
+    {
+      "id": "Easter-and-nature",
+      "title": "Easter and nature – Ostern und Natur",
+      "pages": [
+        55,
+        55
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": 0,
+      "de": "rot",
+      "en": "red",
+      "context": "The book is red.",
+      "unit": "colours",
+      "page": 51
+    },
+    {
+      "id": 1,
+      "de": "orange",
+      "en": "orange",
+      "context": "My rubber is orange.",
+      "unit": "colours",
+      "page": 51
+    },
+    {
+      "id": 2,
+      "de": "gelb",
+      "en": "yellow",
+      "context": "The sun is yellow.",
+      "unit": "colours",
+      "page": 51
+    },
+    {
+      "id": 3,
+      "de": "grün",
+      "en": "green",
+      "context": "The chair is green.",
+      "unit": "colours",
+      "page": 51
+    },
+    {
+      "id": 4,
+      "de": "blau",
+      "en": "blue",
+      "context": "The pen is blue.",
+      "unit": "colours",
+      "page": 51
+    },
+    {
+      "id": 5,
+      "de": "lila, violett",
+      "en": "purple",
+      "context": "My folder is purple.",
+      "unit": "colours",
+      "page": 51
+    },
+    {
+      "id": 6,
+      "de": "rosa",
+      "en": "pink",
+      "context": "The dress is pink.",
+      "unit": "colours",
+      "page": 51
+    },
+    {
+      "id": 7,
+      "de": "braun",
+      "en": "brown",
+      "context": "My dog is brown.",
+      "unit": "colours",
+      "page": 51
+    },
+    {
+      "id": 8,
+      "de": "weiß",
+      "en": "white",
+      "context": "The cat is white.",
+      "unit": "colours",
+      "page": 51
+    },
+    {
+      "id": 9,
+      "de": "schwarz",
+      "en": "black",
+      "context": "The shoes are black.",
+      "unit": "colours",
+      "page": 51
+    },
+    {
+      "id": 10,
+      "de": "grau",
+      "en": "grey",
+      "context": "The rabbit is grey.",
+      "unit": "colours",
+      "page": 51
+    },
+    {
+      "id": 11,
+      "de": "null",
+      "en": "zero",
+      "context": "Zero is a number.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 12,
+      "de": "eins",
+      "en": "one",
+      "context": "One book.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 13,
+      "de": "zwei",
+      "en": "two",
+      "context": "Two pens.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 14,
+      "de": "drei",
+      "en": "three",
+      "context": "Three cats.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 15,
+      "de": "vier",
+      "en": "four",
+      "context": "Four chairs.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 16,
+      "de": "fünf",
+      "en": "five",
+      "context": "Five apples.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 17,
+      "de": "sechs",
+      "en": "six",
+      "context": "Six eggs.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 18,
+      "de": "sieben",
+      "en": "seven",
+      "context": "Seven days.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 19,
+      "de": "acht",
+      "en": "eight",
+      "context": "Eight books.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 20,
+      "de": "neun",
+      "en": "nine",
+      "context": "Nine dogs.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 21,
+      "de": "zehn",
+      "en": "ten",
+      "context": "Ten tables.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 22,
+      "de": "elf",
+      "en": "eleven",
+      "context": "Eleven pencils.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 23,
+      "de": "zwölf",
+      "en": "twelve",
+      "context": "Twelve rulers.",
+      "unit": "numbers",
+      "page": 51
+    },
+    {
+      "id": 24,
+      "de": "gut, in Ordnung",
+      "en": "fine",
+      "context": "I am fine.",
+      "unit": "feelings",
+      "page": 51
+    },
+    {
+      "id": 25,
+      "de": "traurig",
+      "en": "sad",
+      "context": "I am sad.",
+      "unit": "feelings",
+      "page": 51
+    },
+    {
+      "id": 26,
+      "de": "fröhlich, glücklich",
+      "en": "happy",
+      "context": "I am happy.",
+      "unit": "feelings",
+      "page": 51
+    },
+    {
+      "id": 27,
+      "de": "müde",
+      "en": "tired",
+      "context": "I am tired.",
+      "unit": "feelings",
+      "page": 51
+    },
+    {
+      "id": 28,
+      "de": "Schulranzen, Schultasche",
+      "en": "school bag",
+      "context": "My school bag is red.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 29,
+      "de": "Radiergummi",
+      "en": "rubber",
+      "context": "I need a rubber.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 30,
+      "de": "Lineal",
+      "en": "ruler",
+      "context": "The ruler is blue.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 31,
+      "de": "Bleistift",
+      "en": "pencil",
+      "context": "I have a pencil.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 32,
+      "de": "Schere",
+      "en": "scissors",
+      "context": "The scissors are sharp.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 33,
+      "de": "Buntstifte",
+      "en": "coloured pencils",
+      "context": "My coloured pencils are green.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 34,
+      "de": "Federmäppchen",
+      "en": "pencil case",
+      "context": "My pencil case is black.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 35,
+      "de": "Stift, Kugelschreiber",
+      "en": "pen",
+      "context": "This is my pen.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 36,
+      "de": "Klebestift",
+      "en": "glue stick",
+      "context": "I need a glue stick.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 37,
+      "de": "Spitzer",
+      "en": "sharpener",
+      "context": "The sharpener is small.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 38,
+      "de": "Buch",
+      "en": "book",
+      "context": "This is a book.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 39,
+      "de": "Mappe, Ordner",
+      "en": "folder",
+      "context": "The folder is blue.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 40,
+      "de": "Brotdose, Lunchbox",
+      "en": "lunch box",
+      "context": "My lunch box is yellow.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 41,
+      "de": "Stuhl",
+      "en": "chair",
+      "context": "The chair is in the hall.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 42,
+      "de": "Tisch",
+      "en": "table",
+      "context": "The table is in the kitchen.",
+      "unit": "school-things",
+      "page": 51
+    },
+    {
+      "id": 43,
+      "de": "Flur, Diele",
+      "en": "hall",
+      "context": "The chair is in the hall.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 44,
+      "de": "Wohnzimmer",
+      "en": "living room",
+      "context": "The sofa is in the living room.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 45,
+      "de": "Küche",
+      "en": "kitchen",
+      "context": "The table is in the kitchen.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 46,
+      "de": "Schlafzimmer",
+      "en": "bedroom",
+      "context": "The bed is in the bedroom.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 47,
+      "de": "Badezimmer",
+      "en": "bathroom",
+      "context": "The washbasin is in the bathroom.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 48,
+      "de": "Sofa",
+      "en": "sofa",
+      "context": "The sofa is green.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 49,
+      "de": "Bett",
+      "en": "bed",
+      "context": "The bed is big.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 50,
+      "de": "Lampe",
+      "en": "lamp",
+      "context": "The lamp is on the table.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 51,
+      "de": "Bücherregal",
+      "en": "bookshelf",
+      "context": "The bookshelf is in the living room.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 52,
+      "de": "Kleiderschrank, Garderobe",
+      "en": "wardrobe",
+      "context": "The wardrobe is in the bedroom.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 53,
+      "de": "Waschbecken",
+      "en": "washbasin",
+      "context": "The washbasin is in the bathroom.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 54,
+      "de": "Toilette",
+      "en": "toilet",
+      "context": "The toilet is in the bathroom.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 55,
+      "de": "Dusche",
+      "en": "shower",
+      "context": "The shower is in the bathroom.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 56,
+      "de": "Kühlschrank",
+      "en": "fridge",
+      "context": "The fridge is in the kitchen.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 57,
+      "de": "Herd",
+      "en": "cooker",
+      "context": "The cooker is in the kitchen.",
+      "unit": "rooms-and-furniture",
+      "page": 52
+    },
+    {
+      "id": 58,
+      "de": "Bruder",
+      "en": "brother",
+      "context": "My brother is happy.",
+      "unit": "family",
+      "page": 52
+    },
+    {
+      "id": 59,
+      "de": "Schwester",
+      "en": "sister",
+      "context": "My sister is proud.",
+      "unit": "family",
+      "page": 52
+    },
+    {
+      "id": 60,
+      "de": "Vater",
+      "en": "father",
+      "context": "My father is in the living room.",
+      "unit": "family",
+      "page": 52
+    },
+    {
+      "id": 61,
+      "de": "Mutter",
+      "en": "mother",
+      "context": "My mother is in the kitchen.",
+      "unit": "family",
+      "page": 52
+    },
+    {
+      "id": 62,
+      "de": "Großvater, Opa",
+      "en": "grandfather",
+      "context": "My grandfather is old.",
+      "unit": "family",
+      "page": 52
+    },
+    {
+      "id": 63,
+      "de": "Großmutter, Oma",
+      "en": "grandmother",
+      "context": "My grandmother is happy.",
+      "unit": "family",
+      "page": 52
+    },
+    {
+      "id": 64,
+      "de": "in, drinnen",
+      "en": "in",
+      "context": "The dog is in the box.",
+      "unit": "prepositions",
+      "page": 52
+    },
+    {
+      "id": 65,
+      "de": "auf",
+      "en": "on",
+      "context": "The book is on the box.",
+      "unit": "prepositions",
+      "page": 52
+    },
+    {
+      "id": 66,
+      "de": "unter",
+      "en": "under",
+      "context": "The cat is under the table.",
+      "unit": "prepositions",
+      "page": 52
+    },
+    {
+      "id": 67,
+      "de": "hinter",
+      "en": "behind",
+      "context": "The chair is behind the table.",
+      "unit": "prepositions",
+      "page": 52
+    },
+    {
+      "id": 68,
+      "de": "vor",
+      "en": "in front of",
+      "context": "The dog is in front of the box.",
+      "unit": "prepositions",
+      "page": 52
+    },
+    {
+      "id": 69,
+      "de": "neben",
+      "en": "next to",
+      "context": "The book is next to the pen.",
+      "unit": "prepositions",
+      "page": 52
+    },
+    {
+      "id": 70,
+      "de": "stolz",
+      "en": "proud",
+      "context": "I am proud.",
+      "unit": "feelings",
+      "page": 52
+    },
+    {
+      "id": 71,
+      "de": "wütend, sauer",
+      "en": "angry",
+      "context": "I am angry.",
+      "unit": "feelings",
+      "page": 52
+    },
+    {
+      "id": 72,
+      "de": "aufgeregt, begeistert",
+      "en": "excited",
+      "context": "I am excited.",
+      "unit": "feelings",
+      "page": 52
+    },
+    {
+      "id": 73,
+      "de": "Montag",
+      "en": "Monday",
+      "context": "Today is Monday.",
+      "unit": "days-of-the-week",
+      "page": 52
+    },
+    {
+      "id": 74,
+      "de": "Dienstag",
+      "en": "Tuesday",
+      "context": "Today is Tuesday.",
+      "unit": "days-of-the-week",
+      "page": 52
+    },
+    {
+      "id": 75,
+      "de": "Mittwoch",
+      "en": "Wednesday",
+      "context": "Today is Wednesday.",
+      "unit": "days-of-the-week",
+      "page": 52
+    },
+    {
+      "id": 76,
+      "de": "Donnerstag",
+      "en": "Thursday",
+      "context": "Today is Thursday.",
+      "unit": "days-of-the-week",
+      "page": 52
+    },
+    {
+      "id": 77,
+      "de": "Freitag",
+      "en": "Friday",
+      "context": "Today is Friday.",
+      "unit": "days-of-the-week",
+      "page": 52
+    },
+    {
+      "id": 78,
+      "de": "Samstag",
+      "en": "Saturday",
+      "context": "Today is Saturday.",
+      "unit": "days-of-the-week",
+      "page": 52
+    },
+    {
+      "id": 79,
+      "de": "Sonntag",
+      "en": "Sunday",
+      "context": "Today is Sunday.",
+      "unit": "days-of-the-week",
+      "page": 52
+    },
+    {
+      "id": 80,
+      "de": "Fußball spielen",
+      "en": "playing football",
+      "context": "I like playing football.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 81,
+      "de": "Tischtennis spielen",
+      "en": "playing table tennis",
+      "context": "I like playing table tennis.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 82,
+      "de": "zeichnen, malen",
+      "en": "drawing",
+      "context": "I like drawing.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 83,
+      "de": "schwimmen",
+      "en": "swimming",
+      "context": "I like swimming.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 84,
+      "de": "reiten, Reiten",
+      "en": "horse riding",
+      "context": "I like horse riding.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 85,
+      "de": "skateboarden, Skateboard fahren",
+      "en": "skateboarding",
+      "context": "I like skateboarding.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 86,
+      "de": "Rad fahren, Fahrrad fahren",
+      "en": "biking",
+      "context": "I like biking.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 87,
+      "de": "tanzen",
+      "en": "dancing",
+      "context": "I like dancing.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 88,
+      "de": "Computerspiele spielen",
+      "en": "playing computer games",
+      "context": "I like playing computer games.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 89,
+      "de": "lesen",
+      "en": "reading",
+      "context": "I like reading.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 90,
+      "de": "ein Instrument spielen",
+      "en": "playing an instrument",
+      "context": "I like playing an instrument.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 91,
+      "de": "Aufkleber sammeln, Sticker sammeln",
+      "en": "collecting stickers",
+      "context": "I like collecting stickers.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 92,
+      "de": "Hockey spielen",
+      "en": "playing hockey",
+      "context": "I like playing hockey.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 93,
+      "de": "Karten spielen",
+      "en": "playing cards",
+      "context": "I like playing cards.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 94,
+      "de": "Freunde treffen",
+      "en": "meeting friends",
+      "context": "I like meeting friends.",
+      "unit": "hobbies",
+      "page": 53
+    },
+    {
+      "id": 95,
+      "de": "Hund",
+      "en": "dog",
+      "context": "My dog is happy.",
+      "unit": "pets",
+      "page": 53
+    },
+    {
+      "id": 96,
+      "de": "Katze",
+      "en": "cat",
+      "context": "My cat is white.",
+      "unit": "pets",
+      "page": 53
+    },
+    {
+      "id": 97,
+      "de": "Maus",
+      "en": "mouse",
+      "context": "The mouse is small.",
+      "unit": "pets",
+      "page": 53
+    },
+    {
+      "id": 98,
+      "de": "Mäuse",
+      "en": "mice",
+      "context": "The mice are small.",
+      "unit": "pets",
+      "page": 53
+    },
+    {
+      "id": 99,
+      "de": "Hamster",
+      "en": "hamster",
+      "context": "My hamster is small.",
+      "unit": "pets",
+      "page": 53
+    },
+    {
+      "id": 100,
+      "de": "Kaninchen, Hase",
+      "en": "rabbit",
+      "context": "The rabbit is grey.",
+      "unit": "pets",
+      "page": 53
+    },
+    {
+      "id": 101,
+      "de": "Goldfisch",
+      "en": "goldfish",
+      "context": "The goldfish is orange.",
+      "unit": "pets",
+      "page": 53
+    },
+    {
+      "id": 102,
+      "de": "Meerschweinchen",
+      "en": "guinea pig",
+      "context": "My guinea pig is brown.",
+      "unit": "pets",
+      "page": 53
+    },
+    {
+      "id": 103,
+      "de": "Wellensittich",
+      "en": "budgie",
+      "context": "My budgie is green.",
+      "unit": "pets",
+      "page": 53
+    },
+    {
+      "id": 104,
+      "de": "Ratte",
+      "en": "rat",
+      "context": "The rat is grey.",
+      "unit": "pets",
+      "page": 53
+    },
+    {
+      "id": 105,
+      "de": "Mund, Maul",
+      "en": "mouth",
+      "context": "The dog has a big mouth.",
+      "unit": "pet-body-parts",
+      "page": 53
+    },
+    {
+      "id": 106,
+      "de": "Nase",
+      "en": "nose",
+      "context": "The cat has a pink nose.",
+      "unit": "pet-body-parts",
+      "page": 53
+    },
+    {
+      "id": 107,
+      "de": "Augen",
+      "en": "eyes",
+      "context": "The rabbit has red eyes.",
+      "unit": "pet-body-parts",
+      "page": 53
+    },
+    {
+      "id": 108,
+      "de": "Ohren",
+      "en": "ears",
+      "context": "The dog has big ears.",
+      "unit": "pet-body-parts",
+      "page": 53
+    },
+    {
+      "id": 109,
+      "de": "Beine",
+      "en": "legs",
+      "context": "The cat has four legs.",
+      "unit": "pet-body-parts",
+      "page": 53
+    },
+    {
+      "id": 110,
+      "de": "Schwanz",
+      "en": "tail",
+      "context": "The dog has a long tail.",
+      "unit": "pet-body-parts",
+      "page": 53
+    },
+    {
+      "id": 111,
+      "de": "Gurken",
+      "en": "cucumbers",
+      "context": "Rabbits like cucumbers.",
+      "unit": "pet-food",
+      "page": 53
+    },
+    {
+      "id": 112,
+      "de": "Wasser",
+      "en": "water",
+      "context": "My dog likes water.",
+      "unit": "pet-food",
+      "page": 53
+    },
+    {
+      "id": 113,
+      "de": "Reis",
+      "en": "rice",
+      "context": "My hamster likes rice.",
+      "unit": "pet-food",
+      "page": 53
+    },
+    {
+      "id": 114,
+      "de": "Tierfutter",
+      "en": "pet food",
+      "context": "This is pet food.",
+      "unit": "pet-food",
+      "page": 53
+    },
+    {
+      "id": 115,
+      "de": "Körner, Getreide",
+      "en": "grains",
+      "context": "Birds like grains.",
+      "unit": "pet-food",
+      "page": 53
+    },
+    {
+      "id": 116,
+      "de": "Knochen",
+      "en": "bones",
+      "context": "Dogs like bones.",
+      "unit": "pet-food",
+      "page": 53
+    },
+    {
+      "id": 117,
+      "de": "Karotten, Möhren",
+      "en": "carrots",
+      "context": "Rabbits like carrots.",
+      "unit": "pet-food",
+      "page": 53
+    },
+    {
+      "id": 118,
+      "de": "Rock",
+      "en": "skirt",
+      "context": "The skirt is pink.",
+      "unit": "clothes",
+      "page": 54
+    },
+    {
+      "id": 119,
+      "de": "Hose",
+      "en": "trousers",
+      "context": "My trousers are blue.",
+      "unit": "clothes",
+      "page": 54
+    },
+    {
+      "id": 120,
+      "de": "Kleid",
+      "en": "dress",
+      "context": "The dress is red.",
+      "unit": "clothes",
+      "page": 54
+    },
+    {
+      "id": 121,
+      "de": "Regenmantel",
+      "en": "raincoat",
+      "context": "My raincoat is yellow.",
+      "unit": "clothes",
+      "page": 54
+    },
+    {
+      "id": 122,
+      "de": "Schuhe",
+      "en": "shoes",
+      "context": "My shoes are black.",
+      "unit": "clothes",
+      "page": 54
+    },
+    {
+      "id": 123,
+      "de": "anziehen",
+      "en": "put on",
+      "context": "Put on your shoes.",
+      "unit": "clothes",
+      "page": 54
+    },
+    {
+      "id": 124,
+      "de": "ausziehen",
+      "en": "take off",
+      "context": "Take off your raincoat.",
+      "unit": "clothes",
+      "page": 54
+    },
+    {
+      "id": 125,
+      "de": "Käse",
+      "en": "cheese",
+      "context": "I like cheese.",
+      "unit": "food",
+      "page": 54
+    },
+    {
+      "id": 126,
+      "de": "Marmelade",
+      "en": "jam",
+      "context": "I like jam.",
+      "unit": "food",
+      "page": 54
+    },
+    {
+      "id": 127,
+      "de": "Brot",
+      "en": "bread",
+      "context": "I like bread.",
+      "unit": "food",
+      "page": 54
+    },
+    {
+      "id": 128,
+      "de": "Butter",
+      "en": "butter",
+      "context": "I like butter.",
+      "unit": "food",
+      "page": 54
+    },
+    {
+      "id": 129,
+      "de": "Müsli, Getreideflocken",
+      "en": "cereals",
+      "context": "I like cereals.",
+      "unit": "food",
+      "page": 54
+    },
+    {
+      "id": 130,
+      "de": "Speck mit Eiern, Frühstück",
+      "en": "bacon and eggs",
+      "context": "I like bacon and eggs.",
+      "unit": "food",
+      "page": 54
+    },
+    {
+      "id": 131,
+      "de": "Apfel",
+      "en": "apple",
+      "context": "The apple is red.",
+      "unit": "fruit-and-ice-cream",
+      "page": 54
+    },
+    {
+      "id": 132,
+      "de": "Birne",
+      "en": "pear",
+      "context": "The pear is green.",
+      "unit": "fruit-and-ice-cream",
+      "page": 54
+    },
+    {
+      "id": 133,
+      "de": "Ananas",
+      "en": "pineapple",
+      "context": "The pineapple is yellow.",
+      "unit": "fruit-and-ice-cream",
+      "page": 54
+    },
+    {
+      "id": 134,
+      "de": "Vanilleeis",
+      "en": "vanilla ice cream",
+      "context": "I like vanilla ice cream.",
+      "unit": "fruit-and-ice-cream",
+      "page": 54
+    },
+    {
+      "id": 135,
+      "de": "Schokoladeneis",
+      "en": "chocolate ice cream",
+      "context": "I like chocolate ice cream.",
+      "unit": "fruit-and-ice-cream",
+      "page": 54
+    },
+    {
+      "id": 136,
+      "de": "Erdbeereis",
+      "en": "strawberry ice cream",
+      "context": "I like strawberry ice cream.",
+      "unit": "fruit-and-ice-cream",
+      "page": 54
+    },
+    {
+      "id": 137,
+      "de": "Haselnusseis",
+      "en": "hazelnut ice cream",
+      "context": "I like hazelnut ice cream.",
+      "unit": "fruit-and-ice-cream",
+      "page": 54
+    },
+    {
+      "id": 138,
+      "de": "Kirscheis",
+      "en": "cherry ice cream",
+      "context": "I like cherry ice cream.",
+      "unit": "fruit-and-ice-cream",
+      "page": 54
+    },
+    {
+      "id": 139,
+      "de": "Zitroneneis",
+      "en": "lemon ice cream",
+      "context": "I like lemon ice cream.",
+      "unit": "fruit-and-ice-cream",
+      "page": 54
+    },
+    {
+      "id": 140,
+      "de": "Kiwieis",
+      "en": "kiwi ice cream",
+      "context": "I like kiwi ice cream.",
+      "unit": "fruit-and-ice-cream",
+      "page": 54
+    },
+    {
+      "id": 141,
+      "de": "Schlumpfeis",
+      "en": "blue angel ice cream",
+      "context": "I like blue angel ice cream.",
+      "unit": "fruit-and-ice-cream",
+      "page": 54
+    },
+    {
+      "id": 142,
+      "de": "CD",
+      "en": "CD",
+      "context": "I have a CD.",
+      "unit": "media-and-technology",
+      "page": 54
+    },
+    {
+      "id": 143,
+      "de": "Computer",
+      "en": "computer",
+      "context": "My computer is new.",
+      "unit": "media-and-technology",
+      "page": 54
+    },
+    {
+      "id": 144,
+      "de": "Laptop",
+      "en": "laptop",
+      "context": "My laptop is black.",
+      "unit": "media-and-technology",
+      "page": 54
+    },
+    {
+      "id": 145,
+      "de": "Tablet",
+      "en": "tablet",
+      "context": "My tablet is white.",
+      "unit": "media-and-technology",
+      "page": 54
+    },
+    {
+      "id": 146,
+      "de": "Telefon, Handy",
+      "en": "phone",
+      "context": "My phone is in my school bag.",
+      "unit": "media-and-technology",
+      "page": 54
+    },
+    {
+      "id": 147,
+      "de": "Ladegerät",
+      "en": "charger",
+      "context": "I need a charger.",
+      "unit": "media-and-technology",
+      "page": 54
+    },
+    {
+      "id": 148,
+      "de": "Kopfhörer",
+      "en": "headphones",
+      "context": "My headphones are black.",
+      "unit": "media-and-technology",
+      "page": 54
+    },
+    {
+      "id": 149,
+      "de": "Pfund",
+      "en": "pounds",
+      "context": "Ten pounds.",
+      "unit": "money",
+      "page": 54
+    },
+    {
+      "id": 150,
+      "de": "Pence, Pennys",
+      "en": "pence",
+      "context": "Ten pence.",
+      "unit": "money",
+      "page": 54
+    },
+    {
+      "id": 151,
+      "de": "Palast",
+      "en": "palace",
+      "context": "The palace is big.",
+      "unit": "sights-and-transport",
+      "page": 55
+    },
+    {
+      "id": 152,
+      "de": "Kirche",
+      "en": "church",
+      "context": "The church is old.",
+      "unit": "sights-and-transport",
+      "page": 55
+    },
+    {
+      "id": 153,
+      "de": "Brücke",
+      "en": "bridge",
+      "context": "The bridge is long.",
+      "unit": "sights-and-transport",
+      "page": 55
+    },
+    {
+      "id": 154,
+      "de": "Riesenrad",
+      "en": "ferris wheel",
+      "context": "The ferris wheel is big.",
+      "unit": "sights-and-transport",
+      "page": 55
+    },
+    {
+      "id": 155,
+      "de": "Schloss, Burg",
+      "en": "castle",
+      "context": "The castle is old.",
+      "unit": "sights-and-transport",
+      "page": 55
+    },
+    {
+      "id": 156,
+      "de": "Museum",
+      "en": "museum",
+      "context": "The museum is big.",
+      "unit": "sights-and-transport",
+      "page": 55
+    },
+    {
+      "id": 157,
+      "de": "U-Bahn",
+      "en": "underground",
+      "context": "I take the underground.",
+      "unit": "sights-and-transport",
+      "page": 55
+    },
+    {
+      "id": 158,
+      "de": "Taxi",
+      "en": "taxi",
+      "context": "I take a taxi.",
+      "unit": "sights-and-transport",
+      "page": 55
+    },
+    {
+      "id": 159,
+      "de": "Doppeldeckerbus",
+      "en": "double-decker bus",
+      "context": "The double-decker bus is red.",
+      "unit": "sights-and-transport",
+      "page": 55
+    },
+    {
+      "id": 160,
+      "de": "Zug",
+      "en": "train",
+      "context": "I take the train.",
+      "unit": "sights-and-transport",
+      "page": 55
+    },
+    {
+      "id": 161,
+      "de": "Boot, Schiff",
+      "en": "boat",
+      "context": "The boat is on the water.",
+      "unit": "sights-and-transport",
+      "page": 55
+    },
+    {
+      "id": 162,
+      "de": "laufen, spazieren, Spaziergang",
+      "en": "walk",
+      "context": "I like to walk.",
+      "unit": "activities",
+      "page": 55
+    },
+    {
+      "id": 163,
+      "de": "ein Foto machen",
+      "en": "take a photo",
+      "context": "I take a photo of the palace.",
+      "unit": "activities",
+      "page": 55
+    },
+    {
+      "id": 164,
+      "de": "besuchen, besichtigen",
+      "en": "visit",
+      "context": "I visit the museum.",
+      "unit": "activities",
+      "page": 55
+    },
+    {
+      "id": 165,
+      "de": "sehen",
+      "en": "see",
+      "context": "I see the castle.",
+      "unit": "activities",
+      "page": 55
+    },
+    {
+      "id": 166,
+      "de": "Frühling",
+      "en": "spring",
+      "context": "Spring is warm.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 167,
+      "de": "Sommer",
+      "en": "summer",
+      "context": "Summer is hot.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 168,
+      "de": "Herbst",
+      "en": "autumn",
+      "context": "Autumn is cloudy.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 169,
+      "de": "Winter",
+      "en": "winter",
+      "context": "Winter is cold.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 170,
+      "de": "frostig",
+      "en": "frosty",
+      "context": "Winter is frosty.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 171,
+      "de": "verschneit, schneereich",
+      "en": "snowy",
+      "context": "Today is snowy.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 172,
+      "de": "bewölkt",
+      "en": "cloudy",
+      "context": "Today is cloudy.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 173,
+      "de": "regnerisch",
+      "en": "rainy",
+      "context": "Today is rainy.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 174,
+      "de": "warm",
+      "en": "warm",
+      "context": "Today is warm.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 175,
+      "de": "sonnig",
+      "en": "sunny",
+      "context": "Today is sunny.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 176,
+      "de": "heiß",
+      "en": "hot",
+      "context": "Today is hot.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 177,
+      "de": "gewittrig",
+      "en": "thundery",
+      "context": "Today is thundery.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 178,
+      "de": "kalt",
+      "en": "cold",
+      "context": "Today is cold.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 179,
+      "de": "neblig",
+      "en": "foggy",
+      "context": "Today is foggy.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 180,
+      "de": "windig",
+      "en": "windy",
+      "context": "Today is windy.",
+      "unit": "seasons-and-weather",
+      "page": 55
+    },
+    {
+      "id": 181,
+      "de": "Geburtstagsgeschenk",
+      "en": "birthday gift",
+      "context": "The birthday gift is for my sister.",
+      "unit": "special-days",
+      "page": 55
+    },
+    {
+      "id": 182,
+      "de": "Geburtstagskrone",
+      "en": "birthday crown",
+      "context": "The birthday crown is yellow.",
+      "unit": "special-days",
+      "page": 55
+    },
+    {
+      "id": 183,
+      "de": "Geburtstagskuchen",
+      "en": "birthday cake",
+      "context": "The birthday cake is big.",
+      "unit": "special-days",
+      "page": 55
+    },
+    {
+      "id": 184,
+      "de": "Geburtstagskarte",
+      "en": "birthday card",
+      "context": "The birthday card is for my brother.",
+      "unit": "special-days",
+      "page": 55
+    },
+    {
+      "id": 185,
+      "de": "Geist, Gespenst",
+      "en": "ghost",
+      "context": "The ghost is white.",
+      "unit": "Halloween",
+      "page": 55
+    },
+    {
+      "id": 186,
+      "de": "Kürbis",
+      "en": "pumpkin",
+      "context": "The pumpkin is orange.",
+      "unit": "Halloween",
+      "page": 55
+    },
+    {
+      "id": 187,
+      "de": "Fledermaus",
+      "en": "bat",
+      "context": "The bat is black.",
+      "unit": "Halloween",
+      "page": 55
+    },
+    {
+      "id": 188,
+      "de": "Skelett",
+      "en": "skeleton",
+      "context": "The skeleton is white.",
+      "unit": "Halloween",
+      "page": 55
+    },
+    {
+      "id": 189,
+      "de": "Spinne",
+      "en": "spider",
+      "context": "The spider is black.",
+      "unit": "Halloween",
+      "page": 55
+    },
+    {
+      "id": 190,
+      "de": "Vampir",
+      "en": "vampire",
+      "context": "The vampire is scary.",
+      "unit": "Halloween",
+      "page": 55
+    },
+    {
+      "id": 191,
+      "de": "Hexe",
+      "en": "witch",
+      "context": "The witch has a black cat.",
+      "unit": "Halloween",
+      "page": 55
+    },
+    {
+      "id": 192,
+      "de": "Weihnachtsbaum, Tannenbaum",
+      "en": "Christmas tree",
+      "context": "The Christmas tree is green.",
+      "unit": "Christmas",
+      "page": 55
+    },
+    {
+      "id": 193,
+      "de": "Weihnachtsmann",
+      "en": "Father Christmas",
+      "context": "Father Christmas is happy.",
+      "unit": "Christmas",
+      "page": 55
+    },
+    {
+      "id": 194,
+      "de": "Engel",
+      "en": "angel",
+      "context": "The angel is white.",
+      "unit": "Christmas",
+      "page": 55
+    },
+    {
+      "id": 195,
+      "de": "Stern",
+      "en": "star",
+      "context": "The star is yellow.",
+      "unit": "Christmas",
+      "page": 55
+    },
+    {
+      "id": 196,
+      "de": "Glocke",
+      "en": "bell",
+      "context": "The bell is gold.",
+      "unit": "Christmas",
+      "page": 55
+    },
+    {
+      "id": 197,
+      "de": "Kerze",
+      "en": "candle",
+      "context": "The candle is red.",
+      "unit": "Christmas",
+      "page": 55
+    },
+    {
+      "id": 198,
+      "de": "Rentier",
+      "en": "reindeer",
+      "context": "The reindeer is brown.",
+      "unit": "Christmas",
+      "page": 55
+    },
+    {
+      "id": 199,
+      "de": "Christbaumkugel",
+      "en": "bauble",
+      "context": "The bauble is red.",
+      "unit": "Christmas",
+      "page": 55
+    },
+    {
+      "id": 200,
+      "de": "Weihnachtsstrumpf",
+      "en": "Christmas stocking",
+      "context": "The Christmas stocking is red.",
+      "unit": "Christmas",
+      "page": 55
+    },
+    {
+      "id": 201,
+      "de": "Osterei",
+      "en": "Easter egg",
+      "context": "The Easter egg is colourful.",
+      "unit": "Easter-and-nature",
+      "page": 55
+    },
+    {
+      "id": 202,
+      "de": "Osterkorb",
+      "en": "Easter basket",
+      "context": "The Easter basket is brown.",
+      "unit": "Easter-and-nature",
+      "page": 55
+    },
+    {
+      "id": 203,
+      "de": "Osterhase",
+      "en": "Easter bunny",
+      "context": "The Easter bunny is happy.",
+      "unit": "Easter-and-nature",
+      "page": 55
+    },
+    {
+      "id": 204,
+      "de": "Busch, Strauch",
+      "en": "bush",
+      "context": "The bush is green.",
+      "unit": "Easter-and-nature",
+      "page": 55
+    },
+    {
+      "id": 205,
+      "de": "Baum",
+      "en": "tree",
+      "context": "The tree is green.",
+      "unit": "Easter-and-nature",
+      "page": 55
+    },
+    {
+      "id": 206,
+      "de": "Bank, Sitzbank",
+      "en": "bench",
+      "context": "The bench is in the park.",
+      "unit": "Easter-and-nature",
+      "page": 55
+    }
+  ]
+}

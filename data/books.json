@@ -10,5 +10,11 @@
     "title": "Advanced Lighthouse 1",
     "subtitle": "5. Klasse",
     "file": "./data/adv-lghthse-1.json"
+  },
+  {
+    "id": "bumblebee-workbook-3",
+    "title": "Bumblebee Workbook 3",
+    "subtitle": "3. Klasse",
+    "file": "./data/bumblebee-workbook-3.json"
   }
 ]
