@@ -28,6 +28,16 @@ Die Web-App verwendet dafür den lokalen Browserspeicher; die zuletzt aktive Aus
 
 Bei der Kartenanzahl ist **Alle** die Standardeinstellung. Bei einer begrenzten Auswahl beträgt die kleinste mögliche Einstellung **20 Karten**.
 
+### Antwortprüfung und Vibrationen
+
+- Das einleitende englische **to** ist optional, wenn die gesuchte englische Vokabel damit beginnt (z. B. `to discover` → auch `discover`).
+- **Satzzeichen** werden beim Vergleichen nicht verlangt. Wortabstände bleiben relevant; Bindestrich und andere Zeichen können entfallen oder durch einen Abstand ersetzt werden.
+- **Eingeklammerte Textteile** sind einzeln optional, auch wenn mehrere Klammern in einer Vokabel stehen.
+- In englischen Antworten sind **sth/something** und **sb/somebody/someone** austauschbar, ebenso **s.o.** und **s.b.** für Personen. Andere Wörter bleiben unverändert.
+- Unter **Training & Verwaltung → Einstellungen** lassen sich **Vibrationen** dauerhaft ausschalten. Standardmäßig sind sie eingeschaltet. Bei einer falschen Antwort gibt es eine kurze Vibration, beim Trainingsende ein etwa zweisekündiges rhythmisches Muster (auch im zweisprachigen Lernmodus). Die Vibrations-API wird insbesondere von Android-Browsern unterstützt, nicht jedoch von allen Geräten oder Browsern. Eine fehlende Unterstützung verhindert das Lernen nicht.
+- Der Vibrationsschalter ist Bestandteil der lokal gespeicherten Einstellungen und von Fortschritts-Exporten/Importen.
+
+
 ## Datenstruktur und neue Bücher/Units
 
 Die Vokabeldaten liegen getrennt von `index.html` im Ordner `data/`.
@@ -138,6 +148,15 @@ Ausgabeformat:
 - Danach ein Codeblock mit genau einem books.json-Eintrag.
 - Keine weiteren Erklärungen.
 - Vor der Ausgabe intern prüfen: alle Karten haben id/de/en/context/unit/page; alle unit-Werte existieren in units; alle Seiten liegen in pageRange; Karten-IDs sind eindeutig; JSON ist syntaktisch valide.
+```
+
+## Entwickler-Checks
+
+Ohne zusätzliche Abhängigkeiten können die Tests der Antwortprüfung und der Vibrations-/Speicherlogik mit Node.js ausgeführt werden:
+
+```sh
+node tests/answer-check.test.js
+node tests/training-haptics.test.js
 ```
 
 ## GitHub Pages

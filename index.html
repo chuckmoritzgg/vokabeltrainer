@@ -19,7 +19,7 @@ body{margin:0;min-height:100%;background:var(--bg);color:var(--text);font:16px s
 .app{max-width:850px;margin:auto;padding:18px;padding-left:max(18px,env(safe-area-inset-left));padding-right:max(18px,env(safe-area-inset-right));padding-bottom:max(18px,env(safe-area-inset-bottom))}
 .top{display:flex;gap:12px;justify-content:space-between;align-items:flex-start;flex-wrap:wrap}h1{font-size:1.45rem;margin:.2rem 0;display:flex;align-items:center;gap:8px;flex-wrap:wrap}.github-link{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border:1px solid var(--border);border-radius:8px;background:white;color:var(--text);text-decoration:none;transition:background .15s ease,border-color .15s ease}.github-link:hover{background:#f0f2f5;border-color:#c8ced6}.github-link svg{width:18px;height:18px;fill:currentColor}.stats{color:var(--muted);font-size:.9rem}
 .menu,.card{background:var(--card);border:1px solid var(--border);border-radius:16px;box-shadow:0 5px 20px #0000000b}.menu{margin:14px 0;overflow:hidden}.menu summary{list-style:none;cursor:pointer;padding:13px 14px;font-weight:700;display:flex;align-items:center;justify-content:space-between;gap:10px;user-select:none}.menu summary::-webkit-details-marker{display:none}.menu summary::after{content:"▾";font-size:.9rem;color:var(--muted);transition:transform .18s ease}.menu[open] summary::after{transform:rotate(180deg)}.menu-content{border-top:1px solid var(--border);padding:14px}.menu-section-title{font-size:.8rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);font-weight:700;margin:2px 0 8px}
-.panel{padding:0;margin:0;display:flex;gap:10px;flex-wrap:wrap;align-items:flex-end}.panel label{display:flex;flex-direction:column;gap:4px;font-size:.88rem;color:var(--muted)}select,button,input{font:inherit}select,button,input[type=number]{border:1px solid var(--border);border-radius:10px;padding:9px 12px;background:white;color:var(--text)}button{cursor:pointer}button.primary{background:var(--accent);color:white;border-color:var(--accent)}button:disabled{opacity:.45;cursor:not-allowed}.page-fields{display:flex;gap:10px;flex-wrap:wrap}.page-fields input{width:100px}
+.panel{padding:0;margin:0;display:flex;gap:10px;flex-wrap:wrap;align-items:flex-end}.panel label{display:flex;flex-direction:column;gap:4px;font-size:.88rem;color:var(--muted)}select,button,input{font:inherit}select,button,input[type=number]{border:1px solid var(--border);border-radius:10px;padding:9px 12px;background:white;color:var(--text)}button{cursor:pointer}button.primary{background:var(--accent);color:white;border-color:var(--accent)}button:disabled{opacity:.45;cursor:not-allowed}.page-fields{display:flex;gap:10px;flex-wrap:wrap}.page-fields input{width:100px}.setting-row{display:flex;align-items:center;gap:9px;font-size:.93rem;cursor:pointer}.setting-row input{width:18px;height:18px;accent-color:var(--accent);cursor:pointer}.settings-area{margin-top:14px;padding-top:14px;border-top:1px solid var(--border)}
 .card{padding:34px 28px;margin-top:14px;text-align:center;min-height:390px;display:flex;flex-direction:column;justify-content:center;overflow-anchor:none;contain:layout paint}.prompt-label{color:var(--muted);font-size:.9rem}.source-label{color:var(--muted);font-size:.8rem;margin-top:8px}.prompt{font-size:2.15rem;font-weight:700;margin:18px 0 24px;overflow-wrap:anywhere}.bilingual{display:grid;gap:12px;margin:8px auto 22px;width:min(620px,100%)}.bilingual-item{padding:15px;border:1px solid var(--border);border-radius:12px;background:#f7f9fc}.bilingual-lang{font-size:.85rem;color:var(--muted);margin-bottom:6px}.bilingual-word{font-size:1.65rem;font-weight:700;overflow-wrap:anywhere}.answer{width:min(620px,100%);margin:0 auto;padding:14px;border:2px solid var(--border);border-radius:12px;outline:none;text-align:center;font-size:1.25rem;scroll-margin-top:140px}.answer:focus{border-color:var(--accent)}.feedback{margin:18px auto 0;max-width:650px;text-align:left;padding:16px;border-radius:12px}.feedback.ok{background:#eaf8f0;border:1px solid #bfe7ce}.feedback.bad{background:#fff0ee;border:1px solid #f0c0ba}.correct{font-size:1.25rem;font-weight:700;color:var(--ok);word-break:break-word}.wrong{font-size:1.1rem;font-weight:700;color:var(--bad);word-break:break-word}.context{margin-top:10px;color:#4c5661;font-style:italic}.actions{display:flex;justify-content:center;gap:10px;margin-top:20px;flex-wrap:wrap}.progress{height:8px;background:#e7ebef;border-radius:99px;overflow:hidden;margin-top:12px}.bar{height:100%;background:var(--accent);width:0}.hidden{display:none!important}.small{font-size:.85rem;color:var(--muted)}.unit-badge{display:inline-block;margin-left:8px;padding:4px 8px;border-radius:999px;background:#eef2ff;color:#3346a3;font-size:.78rem;font-weight:600;vertical-align:middle}.data-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px;padding-top:14px;border-top:1px solid var(--border)}.file-input{display:none}.hint{margin:4px 0 0;color:var(--muted);font-size:.8rem}.error{padding:14px;border:1px solid #f0c0ba;background:#fff0ee;border-radius:12px;color:#8f2d22}
 @media(max-width:600px){.app{padding-top:12px}.card{padding:24px 16px;min-height:430px;justify-content:flex-start}.prompt-label{margin-top:34px}.prompt{font-size:1.8rem;margin-top:16px}.answer{font-size:1.1rem}.panel label{flex:1 1 145px}.panel select{width:100%}.panel .primary{flex:1 1 100%}.page-fields{width:100%}.page-fields label{flex:1}.page-fields input{width:100%}}
 /* Keep the learning area tall enough to scroll the setup controls out of view. */
@@ -47,6 +47,11 @@ body{margin:0;min-height:100%;background:var(--bg);color:var(--text);font:16px s
         <label>Auswahl<select id="scope"><option value="all">Alle Vokabeln</option><option value="due">Wiederholung fällig</option><option value="weak">Schwierige Vokabeln</option><option value="new">Noch nicht gelernt</option></select></label>
         <label>Karten pro Training<select id="cardLimit"><option value="all">Alle</option><option value="20">20</option><option value="30">30</option><option value="50">50</option><option value="75">75</option><option value="100">100</option></select></label>
         <button class="primary" id="startBtn">Training starten</button>
+      </div>
+      <div class="settings-area">
+        <div class="menu-section-title">Einstellungen</div>
+        <label class="setting-row"><input id="vibrationEnabled" type="checkbox" checked>Vibrationen bei Fehlern und am Trainingsende</label>
+        <p class="hint">Funktioniert auf Geräten und in Browsern mit Vibrationsunterstützung.</p>
       </div>
       <div class="data-actions">
         <button id="exportBtn">Fortschritt exportieren</button>
@@ -82,8 +87,8 @@ const $=id=>document.getElementById(id);
 function safeParse(s){try{return JSON.parse(s)}catch{return null}}
 function readSettingsCookie(){const row=document.cookie.split("; ").find(x=>x.startsWith(SETTINGS_COOKIE+"="));if(!row)return null;try{return JSON.parse(decodeURIComponent(row.slice(SETTINGS_COOKIE.length+1)))}catch{return null}}
 function writeSettingsCookie(active){const secure=location.protocol==="https:"?"; Secure":"";document.cookie=`${SETTINGS_COOKIE}=${encodeURIComponent(JSON.stringify(active))}; Max-Age=31536000; Path=/; SameSite=Lax${secure}`;}
-function emptyStore(){return {schemaVersion:SCHEMA_VERSION,active:{book:null,mode:"unit",unit:null,pageFrom:null,pageTo:null,direction:"de-en",scope:"all",cardLimit:"all"},progress:{}}}
-function migrateActive(a={}){return {...emptyStore().active,...a,scope:a.scope||"all",cardLimit:a.cardLimit??(a.newLimit&&a.newLimit>=20?String(a.newLimit):"all")};}
+function emptyStore(){return {schemaVersion:SCHEMA_VERSION,active:{book:null,mode:"unit",unit:null,pageFrom:null,pageTo:null,direction:"de-en",scope:"all",cardLimit:"all",vibrationEnabled:true},progress:{}}}
+function migrateActive(a={}){return {...emptyStore().active,...a,scope:a.scope||"all",cardLimit:a.cardLimit??(a.newLimit&&a.newLimit>=20?String(a.newLimit):"all"),vibrationEnabled:a.vibrationEnabled!==false};}
 function loadStore(){
   const now=safeParse(localStorage.getItem(STORAGE_KEY)); if(now?.schemaVersion===SCHEMA_VERSION){now.active={...migrateActive(now.active),...(readSettingsCookie()||{})};return now;}
   const out=emptyStore();
@@ -103,9 +108,70 @@ function loadStore(){
 function saveStore(){localStorage.setItem(STORAGE_KEY,JSON.stringify(store));writeSettingsCookie(store.active);updateStats();}
 function unitMeta(id){return currentBook.units.find(u=>u.id===id)}
 function cardState(card,create=true){store.progress[currentBook.id]??={};store.progress[currentBook.id][card.unit]??={};let s=store.progress[currentBook.id][card.unit][card.id];if(!s&&create){s={correct:0,wrong:0,seen:0,due:0,streak:0,last:0};store.progress[currentBook.id][card.unit][card.id]=s;}return s||{correct:0,wrong:0,seen:0,due:0,streak:0,last:0};}
-function norm(s){return String(s??"").trim().toLocaleLowerCase("en-GB").replace(/[’‘`´]/g,"'").replace(/[“”]/g,'"').replace(/\s+/g," ");}
-function answerVariants(s){const raw=String(s??"");const variants=[norm(raw),norm(raw.replace(/[()]/g,"")),norm(raw.replace(/\s*\([^)]*\)/g,""))];return [...new Set(variants.filter(Boolean))]}
-function isCorrect(given,expected){return answerVariants(expected).includes(norm(given));}
+// English vocabulary shorthand is interchangeable with its written-out form.
+// Expand before removing punctuation so "s.o." is not mistaken for the word "so".
+function expandEnglishShorthand(s){
+ return String(s??"").replace(/\bs\.\s*o\.?(?=$|[\s)\],;!?])/gi,"somebody")
+  .replace(/\bs\.\s*b\.?(?=$|[\s)\],;!?])/gi,"somebody")
+  .replace(/\bs\.\s*th\.?(?=$|[\s)\],;!?])/gi,"something")
+  .replace(/\b(?:sb|somebody|someone)\b/gi,"somebody")
+  .replace(/\b(?:sth|something)\b/gi,"something");
+}
+// A punctuation mark can be omitted or stand in for a word separator.
+// Preserve actual word spaces: "a nice" must not match "an ice".
+function spellingVariants(s){
+ const parts=String(s??"").normalize("NFKC").toLocaleLowerCase("en-GB")
+  .replace(/[’‘`´]/g,"'").replace(/[“”]/g,'"').split(/(\p{P}+)/u);
+ let variants=new Set([""]);
+ for(const part of parts){
+  if(!part)continue;
+  const next=new Set();
+  for(const value of variants){
+   if(/^\p{P}+$/u.test(part)){next.add(value);next.add(value+" ");}
+   else next.add(value+part);
+  }
+  variants=next;
+  // Defensive bound for unusually punctuation-heavy imported vocabulary.
+  if(variants.size>512)variants=new Set([...variants].slice(0,512));
+ }
+ return [...new Set([...variants].map(v=>v.replace(/\s+/g," ").trim()).filter(Boolean))];
+}
+function optionalTextVariants(s){
+ const parts=String(s??"").split(/(\([^()]*\))/g);
+ let variants=[""];
+ for(const part of parts){
+  if(part.startsWith("(")&&part.endsWith(")")){
+   const inner=part.slice(1,-1);
+   // Optional groups are independent ("(to) present sth (to sb)").
+   if(variants.length<64)variants=variants.flatMap(v=>[v,v+inner]);
+   else variants=variants.map(v=>v+inner);
+  }else variants=variants.map(v=>v+part);
+ }
+ return variants;
+}
+function answerVariants(expected,english=false){
+ const variants=new Set();
+ for(const optional of optionalTextVariants(expected)){
+  const expanded=english?expandEnglishShorthand(optional):optional;
+  const forms=[expanded];
+  // The introductory infinitive "to" is optional only for English answers.
+  if(english&&/^\s*to\s+/i.test(expanded))forms.push(expanded.replace(/^\s*to\s+/i,""));
+  for(const form of forms)for(const spelling of spellingVariants(form))variants.add(spelling);
+ }
+ return variants;
+}
+function isCorrect(given,expected,english=false){
+ const accepted=answerVariants(expected,english);
+ const input=english?expandEnglishShorthand(given):given;
+ return spellingVariants(input).some(v=>accepted.has(v));
+}
+
+// Vibration API is generally available on Android; unsupported browsers ignore it.
+const FINISH_VIBRATION=[90,60,120,60,160,60,210,70,260,70,290,70,240,70,180]; // ~2 s rhythmic finale
+function vibrate(pattern){
+ if(!$('vibrationEnabled').checked||typeof navigator.vibrate!=="function")return;
+ try{navigator.vibrate(pattern);}catch{/* Vibration may be unavailable or disallowed. */}
+}
 
 async function fetchJSON(url){const r=await fetch(url,{cache:"no-cache"});if(!r.ok)throw new Error(`${url}: HTTP ${r.status}`);return r.json();}
 async function loadBook(id){if(bookCache.has(id))return bookCache.get(id);const meta=manifest.find(b=>b.id===id);if(!meta)throw new Error("Buch nicht gefunden.");const book=await fetchJSON(meta.file);bookCache.set(id,book);return book;}
@@ -121,7 +187,7 @@ function populateBookUI(){
  $("unit").innerHTML="";currentBook.units.forEach(u=>{const o=document.createElement("option");o.value=u.id;o.textContent=`${u.title} (S. ${u.pages[0]}–${u.pages[1]})`;$("unit").append(o)});
  const pr=currentBook.pageRange;$("pageFrom").min=pr.min;$("pageFrom").max=pr.max;$("pageTo").min=pr.min;$("pageTo").max=pr.max;
 }
-function restoreActiveControls(){const a=store.active||{};const unit=currentBook.units.some(u=>u.id===a.unit)?a.unit:currentBook.units[0].id;$("unit").value=unit;$("selectionMode").value=a.mode||"unit";const p=unitMeta(unit).pages;const min=currentBook.pageRange.min,max=currentBook.pageRange.max;const from=Number.isFinite(+a.pageFrom)?Math.min(max,Math.max(min,+a.pageFrom)):p[0];const to=Number.isFinite(+a.pageTo)?Math.min(max,Math.max(min,+a.pageTo)):p[1];$("pageFrom").value=from;$("pageTo").value=to;$("direction").value=a.direction||"de-en";$("scope").value=["all","due","weak","new"].includes(a.scope)?a.scope:"all";$("cardLimit").value=["all","20","30","50","75","100"].includes(String(a.cardLimit))?String(a.cardLimit):"all";}
+function restoreActiveControls(){const a=store.active||{};const unit=currentBook.units.some(u=>u.id===a.unit)?a.unit:currentBook.units[0].id;$("unit").value=unit;$("selectionMode").value=a.mode||"unit";const p=unitMeta(unit).pages;const min=currentBook.pageRange.min,max=currentBook.pageRange.max;const from=Number.isFinite(+a.pageFrom)?Math.min(max,Math.max(min,+a.pageFrom)):p[0];const to=Number.isFinite(+a.pageTo)?Math.min(max,Math.max(min,+a.pageTo)):p[1];$("pageFrom").value=from;$("pageTo").value=to;$("direction").value=a.direction||"de-en";$("scope").value=["all","due","weak","new"].includes(a.scope)?a.scope:"all";$("cardLimit").value=["all","20","30","50","75","100"].includes(String(a.cardLimit))?String(a.cardLimit):"all";$("vibrationEnabled").checked=a.vibrationEnabled!==false;}
 function updateSelectionUI(){const pages=$("selectionMode").value==="pages";$("unitWrap").classList.toggle("hidden",pages);$("pageFields").classList.toggle("hidden",!pages);updateStats();}
 function selectedCards(){
  if(!currentBook)return[];
@@ -129,7 +195,7 @@ function selectedCards(){
  let a=+$("pageFrom").value,b=+$("pageTo").value;if(a>b)[a,b]=[b,a];return currentBook.cards.filter(c=>c.page>=a&&c.page<=b);
 }
 function selectionLabel(){if(!currentBook)return"";if($("selectionMode").value==="unit")return unitMeta($("unit").value)?.title||"Unit";let a=+$("pageFrom").value,b=+$("pageTo").value;if(a>b)[a,b]=[b,a];return `S. ${a}–${b}`;}
-function persistControls(){store.active={book:currentBook.id,mode:$("selectionMode").value,unit:$("unit").value,pageFrom:+$("pageFrom").value,pageTo:+$("pageTo").value,direction:$("direction").value,scope:$("scope").value,cardLimit:$("cardLimit").value};saveStore();}
+function persistControls(){store.active={book:currentBook.id,mode:$("selectionMode").value,unit:$("unit").value,pageFrom:+$("pageFrom").value,pageTo:+$("pageTo").value,direction:$("direction").value,scope:$("scope").value,cardLimit:$("cardLimit").value,vibrationEnabled:$("vibrationEnabled").checked};saveStore();}
 function updateStats(){
  if(!currentBook)return;const cards=selectedCards();let seen=0,due=0,weak=0;for(const c of cards){const s=cardState(c,false);if(s.seen)seen++;if((s.due||0)<=Date.now())due++;if(s.seen&&s.wrong>s.correct)weak++;}
  $("stats").textContent=`${cards.length} Vokabeln · ${seen} gelernt · ${due} fällig · ${weak} schwierig`;$("selectionBadge").textContent=selectionLabel();$("bookHint").textContent=currentBook.title+(currentBook.subtitle?" · "+currentBook.subtitle:"");$("resetBtn").textContent="Fortschritt für Auswahl zurücksetzen";
@@ -156,9 +222,9 @@ function showCard(){
 }
 function focusStable(){const y=window.scrollY;$("answer").focus({preventScroll:true});requestAnimationFrame(()=>window.scrollTo({top:y,left:0,behavior:"instant"}));}
 function expected(){return $("direction").value==="de-en"?current.en:current.de;}
-function grade(ok,shown=false){if(answered)return;answered=true;const s=cardState(current);s.seen++;s.last=Date.now();if(ok&&!shown){s.correct++;s.streak=(s.streak||0)+1;const days=[1,3,7,14,30,60][Math.min(s.streak-1,5)];s.due=Date.now()+days*86400000;}else{s.wrong++;s.streak=0;s.due=Date.now()+2*60000;}saveStore();const user=$("answer").value;const exp=expected();$("feedback").className="feedback "+(ok&&!shown?"ok":"bad");$("feedback").innerHTML=(ok&&!shown?`<div class="correct">✓ Richtig</div>`:`${shown?"":`<div class="wrong">Deine Antwort: ${escapeHtml(user||"(leer)")}</div>`}<div class="correct">Richtig: ${escapeHtml(exp)}</div>`)+(current.context?`<div class="context">${escapeHtml(current.context)}</div>`:"");$("answer").disabled=true;$("checkBtn").disabled=true;$("showBtn").disabled=true;$("nextBtn").classList.remove("hidden");$("nextBtn").focus({preventScroll:true});}
-function check(){if($("direction").value==="both")return;grade(isCorrect($("answer").value,expected()),false)}
-function next(){pos++;if(pos>=queue.length){$("prompt").classList.remove("hidden");$("bilingual").classList.add("hidden");$("answer").classList.add("hidden");$("promptLabel").textContent="Training abgeschlossen";$("sourceLabel").textContent="";$("prompt").textContent="Geschafft!";$("answer").disabled=true;$("feedback").className="feedback ok";$("feedback").innerHTML='<div class="correct">Diese Runde ist fertig.</div>';$("nextBtn").classList.add("hidden");$("bar").style.width="100%";$("counter").textContent=`${queue.length} / ${queue.length}`;return}showCard();}
+function grade(ok,shown=false){if(answered)return;answered=true;const s=cardState(current);s.seen++;s.last=Date.now();if(ok&&!shown){s.correct++;s.streak=(s.streak||0)+1;const days=[1,3,7,14,30,60][Math.min(s.streak-1,5)];s.due=Date.now()+days*86400000;}else{s.wrong++;s.streak=0;s.due=Date.now()+2*60000;}saveStore();if(!ok&&!shown)vibrate(65);const user=$("answer").value;const exp=expected();$("feedback").className="feedback "+(ok&&!shown?"ok":"bad");$("feedback").innerHTML=(ok&&!shown?`<div class="correct">✓ Richtig</div>`:`${shown?"":`<div class="wrong">Deine Antwort: ${escapeHtml(user||"(leer)")}</div>`}<div class="correct">Richtig: ${escapeHtml(exp)}</div>`)+(current.context?`<div class="context">${escapeHtml(current.context)}</div>`:"");$("answer").disabled=true;$("checkBtn").disabled=true;$("showBtn").disabled=true;$("nextBtn").classList.remove("hidden");$("nextBtn").focus({preventScroll:true});}
+function check(){if($("direction").value==="both")return;grade(isCorrect($("answer").value,expected(),$("direction").value==="de-en"),false)}
+function next(){pos++;if(pos>=queue.length){$("prompt").classList.remove("hidden");$("bilingual").classList.add("hidden");$("answer").classList.add("hidden");$("promptLabel").textContent="Training abgeschlossen";$("sourceLabel").textContent="";$("prompt").textContent="Geschafft!";$("answer").disabled=true;$("feedback").className="feedback ok";$("feedback").innerHTML='<div class="correct">Diese Runde ist fertig.</div>';$("nextBtn").classList.add("hidden");$("bar").style.width="100%";$("counter").textContent=`${queue.length} / ${queue.length}`;vibrate(FINISH_VIBRATION);return}showCard();}
 function updateProgress(){$("bar").style.width=((pos/queue.length)*100)+"%";$("counter").textContent=`${pos+1} / ${queue.length}`;}
 function resetStudyView(){$("prompt").classList.remove("hidden");$("bilingual").classList.add("hidden");$("answer").classList.remove("hidden");$("checkBtn").classList.remove("hidden");$("showBtn").classList.remove("hidden");$("nextBtn").textContent="Weiter";$("promptLabel").textContent="Training auswählen und starten.";$("sourceLabel").textContent="";$("prompt").textContent="Bereit?";$("answer").value="";$("answer").disabled=true;$("feedback").className="feedback hidden";$("checkBtn").disabled=true;$("showBtn").disabled=true;$("nextBtn").classList.add("hidden");$("bar").style.width="0";$("counter").textContent="";}
 function escapeHtml(s){return String(s).replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[ch]))}
@@ -169,6 +235,7 @@ $("book").addEventListener("change",async e=>{currentBook=await loadBook(e.targe
 $("selectionMode").addEventListener("change",()=>{updateSelectionUI();persistControls();resetStudyView()});
 $("unit").addEventListener("change",()=>{const u=unitMeta($("unit").value);$("pageFrom").value=u.pages[0];$("pageTo").value=u.pages[1];persistControls();resetStudyView()});
 for(const id of ["pageFrom","pageTo","direction","scope","cardLimit"])$(id).addEventListener("change",()=>{persistControls();resetStudyView()});
+$("vibrationEnabled").addEventListener("change",()=>{persistControls();if(!$("vibrationEnabled").checked&&typeof navigator.vibrate==="function"){try{navigator.vibrate(0);}catch{/* Unsupported or blocked. */}}});
 $("startBtn").onclick=startTraining;$("checkBtn").onclick=check;$("showBtn").onclick=()=>{if($("direction").value!=="both")grade(false,true)};$("nextBtn").onclick=next;
 $("answer").addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();$("direction").value==="both"?next():answered?next():check();}});
 $("exportBtn").onclick=exportProgress;$("importBtn").onclick=()=>$("importFile").click();$("importFile").addEventListener("change",e=>{if(e.target.files[0])importProgress(e.target.files[0]);e.target.value=""});
